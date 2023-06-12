@@ -78,13 +78,13 @@ LABEL_COLUMN = 'label'
 train_InputExamples, validation_InputExamples = convert_data_to_examples(train_data, test_data, DATA_COLUMN, LABEL_COLUMN)
 
 train_data = convert_examples_to_tf_dataset(list(train_InputExamples), tokenizer)
-train_data = train_data.shuffle(100).batch(32).repeat(2)
+train_data = train_data.shuffle(100).batch(2).repeat(2)
 
 validation_data = convert_examples_to_tf_dataset(list(validation_InputExamples), tokenizer)
-validation_data = validation_data.batch(32)
+validation_data = validation_data.batch(2)
 
 # Create the model
-model = TFBertForSequenceClassification.from_pretrained("bert-base-uncased")
+model = TFBertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels=7)
 
 # Compile the model
 optimizer = tf.keras.optimizers.Adam(learning_rate=3e-5, epsilon=1e-08, clipnorm=1.0)
@@ -93,4 +93,4 @@ metric = tf.keras.metrics.SparseCategoricalAccuracy('accuracy')
 model.compile(optimizer=optimizer, loss=loss, metrics=[metric])
 
 # Train the model
-model.fit(train_data, epochs=2, validation_data=validation_data)
+model.fit(train_data, epochs=3, validation_data=validation_data)

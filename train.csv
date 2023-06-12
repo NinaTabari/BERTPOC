@@ -1,0 +1,1120 @@
+text,label
+" Change is computed  and  displayed.",1
+" Change is computed  and  displayed.",2
+" If past-due amounts are owed  they  can be paid  at this  time; or  the  clerk can select an  option which  updates the rental with the return date and  calculates past-due fees.",1
+" If past-due amounts are owed  they  can be paid  at this  time; or  the  clerk can select an  option which  updates the rental with the return date and  calculates past-due fees.",3
+" To return a tape, the video bar code ID is entered  into the system.",1
+" When all  tape Ids are entered , the system computes the total bill.",1
+A manager or administrator views the changes that have been made to sensitive (audited) fields in the application. Changes are recorded from the creation of a record up to the present.,1
+A manager or administrator views the changes that have been made to sensitive (audited) fields in the application. Changes are recorded from the creation of a record up to the present.,3
+A manager or administrator views the changes that have been made to sensitive (audited) fields in the application. Changes are recorded from the creation of a record up to the present.,3
+"A user defines ""default"" log entry access settings (see story #2). Whenever a new log entry is created, it starts with the default settings.",1
+"A user defines ""default"" log entry access settings (see story #2). Whenever a new log entry is created, it starts with the default settings.",3
+"A user defines ""default"" log entry access settings (see story #2). Whenever a new log entry is created, it starts with the default settings.",3
+A user marks a project as being owned by his group. (Question: can a user ever belong to more than one group?).,1
+A user marks a project as being owned by his group. (Question: can a user ever belong to more than one group?).,3
+A user marks a project as being owned by his group. (Question: can a user ever belong to more than one group?).,3
+"A user shall be able to reserve any  number of books. Similarly , multiple users shall  be able to reserve any  particular book.",1
+"A user shall be able to reserve any  number of books. Similarly , multiple users shall  be able to reserve any  particular book.",3
+"A user wants access to the system, so he finds an ATS system administrator, who enters in the user's first name, last name, middle initial, email address, username (unique), and phone number.  Users may be marked as ""deleted.  "" Users may also be marked as administrators. ",4
+ability to preview an in process order with accurate information in PDF format and branded by the partner.,1
+ability to preview an in process order with accurate information in PDF format and branded by the partner.,2
+ACMELIS shall send an e-mail advising users of the expiry date of a  book’s loan period. The notification shall  be issued  two days before the book’s return date.,1
+ACMELIS shall send an e-mail advising users of the expiry date of a  book’s loan period. The notification shall  be issued  two days before the book’s return date.,3
+Add additional properties for repositories.,1
+Add additional properties for repositories.,5
+Add an interface to the route optimizer that allows a route to be scored.,1
+Add PO number to McNally Report.,1
+All service documents should have a standard way of displaying an example url for users to see.,1
+Any  outstanding video rentals are displayed  with the amount due on each  tape and   the total amount due.,1
+Any  past-due amount must be paid  before new  tapes can  be rented.,1
+"As a (developer | migration developer | deployment engineer), I want to use a configuration that is not prepackaged within a built version of application.",3
+As a Basic Data Entry user I want to create and update basic archival description information.,2
+"As a bath data archive administrator, I want to Encourage and promote the use of open standards for deposit so that Data is as reusable as possible.",2
+"As a bath data archive administrator, I want to Query the entire archive (including embargoed records) so that I can report on particular aspects of the archive holdings.",3
+As a cataloger and a collections manager I want Trident to support Duke Core so that metadata is consistent between collections.,4
+As a cataloger I want authority lists to be easily accessible and contextually relevant so it is easy to use the authority.,4
+As a cataloger I want to be able to see/hear/watch/read all components associated on the with an item on the create/update screen so I don't have to leave the form.,4
+As a cataloger I want to be able to see/hear/watch/read the digital object I am cataloging so I don't have to move between multiple applications while I'm creating metadata.,4
+As a cataloger or collection manager I want to be able to edit an arbitrary number of Items at once so that I can make changes to all Items in a collection efficiently.,2
+As a cataloger or collection manager I want to be able to search for records based on all Duke Core fields.,2
+As a cataloger or collection manager I want to be able to use a grid/spreadsheet style interface so I can edit Items quickly.,4
+As a cataloger or collection manager I want to see all of the metadata for a record while I'm editing it so that I have the full context for the item I'm cataloging.,2
+"As a cataloger, I want to be able to create linked open data using persistent links to content (URNs) in the DRS.",3
+As a CAWL I need to be able to apply a 5% Discount to my postage rate so I can receive the correct pricing.,4
+As a clerk I need to be able to create a new complaint record so that we can investigate and process the complaint.,4
+As a clerk I need to be able to generate an AIR report.,4
+As a clerk I want to be able to create a Request for Information letter reflect this status in the system and set a due date so that we can track the process correctly.,2
+As a clerk I want to be able to lookup the respondent if it's part of Accela so I can plug it back in the complaint.,4
+As a clerk I want to be able to submit a complaint from the AIR (Annual Inspection Report) so that the respondent can fix the issues that the inspectors found.,3
+As a clerk I want to be able to take a paper complaint so I can create an electronic record.,4
+As a clerk I would like to be able to look up complaints by complainant or respondent so I can answer phone calls.,4
+"As a collection manager (Amy Benson), I want to be able to pass in a set of URNs, possibly as a result of a HOLLIS search), and get that content back.",2
+"As a collection manager (Amy Benson), I want to be able to pass in a set of URNs, possibly as a result of a HOLLIS search), and get that content back.",3
+As a Collection Manager I want my collection to be discoverable in the Catalog.,4
+As a collection manager I want statuses to include a status that flags a record as having a problem so we can track issues as the arise.,4
+As a collection manager I want to import metadata and create records from a DCP digitazation guide.,2
+As a collection manager I want to map fields in inherited metadata to Duke Core fields and import a spreadsheet and create records.,2
+As a collection manager I want to search for records based on status so I can track the progress of a collection.,4
+As a collection manager I want to use external authority lists so I they can be used during metadata creation.,4
+As a collection manager or cataloger I want to be able to see who last edited a record and when.,2
+"As a collection owner, I want to be able to hire a programmer to write custom DRS content delivery services (PDS, IDS, SDS), pulling up some descriptive metadata (Citation), structural metadata, and enough technical metadata to know the file type to be rendered) for meeting the special needs of my users.",2
+"As a collection owner, I want to be able to hire a programmer to write custom DRS content delivery services (PDS, IDS, SDS), pulling up some descriptive metadata (Citation), structural metadata, and enough technical metadata to know the file type to be rendered) for meeting the special needs of my users.",3
+As a collections manager I want required DC fields to be enforced so that all records have values for all required DC fields.,4
+"As a company, I can join the Scrum Alliance by paying a corporate membership fee. This will include uploading items related to corporate membership (e.g., company description, a logo of size x by y).",3
+"As a company, I can join the Scrum Alliance by paying a corporate membership fee. This will include uploading items related to corporate membership (e.g., company description, a logo of size x by y).",3
+"As a company, I can join the Scrum Alliance by paying a corporate membership fee. This will include uploading items related to corporate membership (e.g., company description, a logo of size x by y).",4
+As a complainant I want to be able to check the status of the complaint online so I don't have to talk to the department.,4
+As a complainant I want to be able to submit my complaint anonymously so no one knows it was me.,4
+"As a corporate sponsor I want my logo to randomly appear on the home page. (That is, it rotates among other corporate sponsors.).",3
+"As a corporate sponsor I want my logo to randomly appear on the home page. (That is, it rotates among other corporate sponsors.).",3
+"As a corporate sponsor I want my logo to randomly appear on the home page. (That is, it rotates among other corporate sponsors.).",4
+"As a CSM or CPO who has been approved for Practitioner status (by a site admin reading my submission), I am charged a fee.",3
+"As a CSM or CPO who has been approved for Practitioner status (by a site admin reading my submission), I am charged a fee.",4
+"As a CSM, Practitioner, or Certified Product Owner, I can have my name listed in the registry without becoming a member of the site. (For example, I take a certification class but never register or let my membership lapse.).",2
+"As a CSM, Practitioner, or Certified Product Owner, I can have my name listed in the registry without becoming a member of the site. (For example, I take a certification class but never register or let my membership lapse.).",3
+"As a CSM, Practitioner, or Certified Product Owner, I can have my name listed in the registry without becoming a member of the site. (For example, I take a certification class but never register or let my membership lapse.).",3
+"As a CSM, Practitioner, or Certified Product Owner, I can have my name listed in the registry without becoming a member of the site. (For example, I take a certification class but never register or let my membership lapse.).",4
+As a customer site I need to change the content on core pages so I can reflect the text I need to display.,4
+"As a customer, I would like to deposit and retrieve ALTO OCR data.",2
+"As a customer, I would like to deposit and retrieve ALTO OCR data.",4
+"As a data re-user, I want to Examine and identify deposited files so that I can make a preliminary assessment of usefulness without downloading the whole dataset.",2
+"As a data re-user, I want to Search the archive through Primo (university of bath library search system) so that I can search books, articles and data all in one place.",3
+"As a data re-user, I want to See different versions (including the latest) of a dataset at a glance so that I can be sure I’m using the right version of the dataset.",3
+"As a data re-user, I want to View a DOI for a dataset so that I can get back to the data in future and I can import the dataset into my reference-management software automatically.",6
+"As a depositor, I want to Apply licenses to datasets so that My IP rights are protected appropriately.",3
+"As a depositor, I want to Attach subject-specific discoverability metadata to records so that. Researchers in my discipline can find my data more easily.",3
+"As a depositor, I want to Attach subject-specific discoverability metadata to records so that. Researchers in my discipline can find my data more easily.",4
+"As a depositor, I want to Deposit and maintain datasets through a simple web interface so that I don’t need to install and learn new software to deposit.",2
+"As a depositor, I want to Deposit and maintain datasets through Pure so that I have a single one-stop shop for managing my research outputs.",2
+"As a depositor, I want to Deposit and maintain datasets through Virtual Research Environments and other workflow tools so that I can continue to work with tools with which I’m familiar.",2
+"As a depositor, I want to Deposit arbitrarily large files so that I am not limited in what files I can and cannot deposit.",6
+"As a depositor, I want to Have a user interface that is familiar to me so that I feel like all the University systems are joined up.",3
+"As a depositor, I want to Have guarantees about data integrity so that I can use my data in the future and I can fulfil funder requirements for archival.",6
+"As a depositor, I want to Have metadata automatically filled from other University systems (e.g. Pure) and/or remembered from previous deposits so that I don’t have to waste time re-entering the same information.",2
+"As a depositor, I want to Have metadata automatically filled from other University systems (e.g. Pure) and/or remembered from previous deposits so that I don’t have to waste time re-entering the same information.",3
+"As a depositor, I want to Have metadata automatically filled from other University systems (e.g. Pure) and/or remembered from previous deposits so that I don’t have to waste time re-entering the same information.",3
+"As a depositor, I want to Link datasets with the project DMP (possibly from dmponline) so that Compliance with DMP can be demonstrated and the Whole project workflow is linked together.",3
+"As a depositor, I want to Manage and share “live” research data so that Whole project workflow is linked together.",2
+"As a depositor, I want to Place data under an embargo so that My right of first-use is protected and I can fulfill my confidentiality responsibilities.",6
+As a developer I want to check on all released flash versions supported by browsers so I can adjust my flash presentation towards new flash versions in particular.,4
+As a developer I want to define presentation variants in my presentation configuration xml file so I can easily and efficiently deploy my presentation throughout DTAP.,4
+"As a developer who presents images, I need the granularity to get information about the images associated with a VIA URN, so I can present the user with choices.",4
+"As a developer, I need bulk access to metadata (TBD) so I can preprocess the data set.",3
+"As a developer, I need bulk access to metadata (TBD) so I can preprocess the data set.",4
+"As a developer, I would like to access individual data fields, such as full text.",4
+"As a developer, I would like to be able to search the DRS passing in an XML file of search parameters rather than a query string on the URL.",4
+"As a developer/maintainer of related services, I want to Deposit and maintain datasets via an API such as SWORD2 so that My service can interact with the archive.",2
+"As a Digital Production Developer (DPD) I want to group components that require digitization so that I can create ""digitizable units"".",3
+As a Digital Production User (DPU) I want to be able to create Components.,3
+As a DPU I want to create structural metadata for an Item so I can define the sequence of components.,4
+As a DPU I want Trident to create derivatives for me when I upload a Master.,4
+As a End User I want to be able to see the physical context of an Item in a digital collection (i. e. See inside this folder; EAD).,3
+As a End User I want to be able to see the physical context of an Item in a digital collection (i. e. See inside this folder; EAD).,3
+"As a fourth-year student, I want to be able to have presented to me only features and content that are relevant to my status, so that I can focus on what is most relevant (e.g. finding a job).",2
+"As a fourth-year student, I want to be able to have presented to me only features and content that are relevant to my status, so that I can focus on what is most relevant (e.g. finding a job).",3
+"As a fourth-year student, I want to be able to have presented to me only features and content that are relevant to my status, so that I can focus on what is most relevant (e.g. finding a job).",3
+"As a funding body, I want to Be reassured (by individual researchers or an institution) that researchers I fund have robust archival plans for their data so that I can be sure that funding them is a worthwhile investment.",2
+"As a funding body, I want to Be reassured (by individual researchers or an institution) that researchers I fund have robust archival plans for their data so that I can be sure that funding them is a worthwhile investment.",3
+"As a funding body, I want to Harvest metadata on outputs from research I fund via e.g. OAI-PMH so that I can analyse effectiveness of funding strategy and I can encourage cross-fertilisation of research outputs (see e.g. OpenAIRE[1]).",3
+"As a funding body, I want to Harvest metadata on outputs from research I fund via e.g. OAI-PMH so that I can analyse effectiveness of funding strategy and I can encourage cross-fertilisation of research outputs (see e.g. OpenAIRE[1]).",3
+"As a funding body, I want to Harvest metadata on outputs from research I fund via e.g. OAI-PMH so that I can analyse effectiveness of funding strategy and I can encourage cross-fertilisation of research outputs (see e.g. OpenAIRE[1]).",6
+"As a humanities faculty member, I want the DRS to support image content delivery via the International Image Interoperability Framework API so that web applications from Stanford, Yale, and Johns Hopkins can compare Harvard digitized manuscripts with versions from their institutions and I can use those comparisons for research and teaching.",6
+"As a humanities faculty member, I want the DRS to support image content delivery via the International Image Interoperability Framework API so that web applications from Stanford, Yale, and Johns Hopkins can compare Harvard digitized manuscripts with versions from their institutions and I can use those comparisons for research and teaching.",4
+As a lab administrator I can theme the Web interface graphics/colours.,4
+As a lab administrator I should be able to create page templates with bespoke metadata fields.,4
+As a lab administrator I want a way of managing worm strain stocks that is integrated with Wormbase.,4
+As a licensing partner I need clients to be redirected back to the site so that they can continue their order process.,4
+As a licensing partner I need Papa Johns Clients to be redirected back to www.pjcatalog.com so that they can continue their order process.,4
+As a licensing partner I need the product options to change so that it reflects my fulfillment needs.,4
+As a main editor I want to configure workflow on classification-level so that I can control what editors are allowed to use several terms which are used on specific site parts / facets in order to prevent publishing faulty content.,6
+As a main editor I want to configure workflow on classification-level so that I can control what editors are allowed to use several terms which are used on specific site parts / facets in order to prevent publishing faulty content.,4
+As a main editor I want to configure workflow on media item-level for specific content types so that I can control who can modify what specific item in order to prevent editors from publishing faulty content.,6
+As a main editor I want to configure workflow on media item-level for specific content types so that I can control who can modify what specific item in order to prevent editors from publishing faulty content.,4
+As a marketeer I want to be solve URL conflicts immediately so I avoid not-friendly URLs and thereby will postively influence the overall SE ranking of the website.,4
+As a marketeer I want to create friendly URLs for my nested product pages so I can improve the SE ranking of the product section of my website.,4
+As a marketeer I want to set canonical tags to individual pages so I can avoid duplicate content easily without having to set permanent redirects and thereby will improve the SE ranking of the website.,4
+As a marketeer I want to set the rel attribute of external links so I can make sure that SE bots do no affect SE rankings for pages with many external links.,4
+As a marketeer I want to set the title attribute of a link so I can improve the SE ranking of the website.,4
+As a marketeer I want to view segment page view results of the current week easily so I can see at a glance whether content is relevant to the intended segment.,4
+As a marketeer I want to view the top keywords of the week easily so that I can analyze key words and when needed I can undertake action upon this information.,6
+As a marketeer I want to view the top refferals of the week so I can quickly see what websites drive most traffic to a specific page or media item.,3
+As a marketeer I want to view the top refferals of the week so I can quickly see what websites drive most traffic to a specific page or media item.,4
+"As a member with short-term memory problems, I can have the system email me a new password or a password reminder, possibly my username (unless we use email for that), and so on.",2
+"As a member with short-term memory problems, I can have the system email me a new password or a password reminder, possibly my username (unless we use email for that), and so on.",3
+"As a member with short-term memory problems, I can have the system email me a new password or a password reminder, possibly my username (unless we use email for that), and so on.",4
+As a Metadata Librarian I want validation rules enforced when MD is submitted.,4
+"As a migration specialist, I want to store the AT or Archon source record ids in each ASpace record to support data migration integrity testing.",2
+"As a new Certified ScrumMaster or Certified Product Owner, once my name has been loaded to the registry I am sent an email welcoming me to the Scrum Alliance and containing instructions on how to register / activate my membership.",2
+"As a new Certified ScrumMaster or Certified Product Owner, once my name has been loaded to the registry I am sent an email welcoming me to the Scrum Alliance and containing instructions on how to register / activate my membership.",4
+As a new student I need to be oriented to the campus and the various online services so that I can be an efficient and effective student at Berkeley.,4
+As a online channel manager I want to publish content in multiple languages so I can target my audience in their native language which increases relevancy and attract more traffic to my website.,4
+As a Papa John's user I need accurate pricing so that I can accurately plan my purchase.,4
+"As a Practitioner or Trainer, when I provide content to the site I want a small graphic associated with the content indicating I’m a Practitioner or Trainer. (For example, Amazon’s “Top 500 Reviewers” approach.).",2
+"As a Practitioner or Trainer, when I provide content to the site I want a small graphic associated with the content indicating I’m a Practitioner or Trainer. (For example, Amazon’s “Top 500 Reviewers” approach.).",3
+"As a Practitioner or Trainer, when I provide content to the site I want a small graphic associated with the content indicating I’m a Practitioner or Trainer. (For example, Amazon’s “Top 500 Reviewers” approach.).",3
+"As a Practitioner or Trainer, when I provide content to the site I want a small graphic associated with the content indicating I’m a Practitioner or Trainer. (For example, Amazon’s “Top 500 Reviewers” approach.).",4
+"As a Practitioner, I want my profile page to include additional details about me (i.e., some of the answers to my Practitioner application).",3
+"As a Practitioner, I want my profile page to include additional details about me (i.e., some of the answers to my Practitioner application).",3
+"As a Practitioner, I want my profile page to include additional details about me (i.e., some of the answers to my Practitioner application).",4
+As a Preservation Librarian I want the relationship between masters and derivatives to be managed by the system so I don't have to.,4
+"As a programmer building image display applications, I need to obtain admin metadata access rights for public/private DRS content (URNs).",3
+"As a programmer building image display applications, I need to obtain admin metadata access rights for public/private DRS content (URNs).",4
+"As a programmer working with images from the DRS, I need to be able to look up technical metadata about images so that I can properly size and position them in my web application e.g. image height/width for the ARTstor SharedShelf project, image resolution). ",4
+"As a programmer working with images from the DRS, I need to be able to look up technical metadata about images so that I can properly size and position them in my web application e.g. image height/width for the ARTstor SharedShelf project, image resolution). ",3
+"As a provider of DRS imaging services, I need access to preferred citations.  Default digital object citations could be formulated by script from catalog records, and repositories could be allowed to replace these programmatically-produced citations with customized citations, if needed, using the DRS Web Admin user interface. ",4
+"As a provider of DRS imaging services, I need access to preferred citations.  Default digital object citations could be formulated by script from catalog records, and repositories could be allowed to replace these programmatically-produced citations with customized citations, if needed, using the DRS Web Admin user interface. ",2
+"As a provider of DRS imaging services, I need access to preferred citations.  Default digital object citations could be formulated by script from catalog records, and repositories could be allowed to replace these programmatically-produced citations with customized citations, if needed, using the DRS Web Admin user interface. ",3
+"As a provider of DRS imaging services, I need access to terms of use statements for objects.  For example, aA limited menu of HL use-permissions statements could be formulated, stashed in DRS, and associated with individual resources, or whole classes of resources.  When we allow our digital resources to be used outside of our library systems (e.  g.  within DPLA, or other applications like the Library Lab funded Zeega project), the object can travel with the requisite use-permissions. ",4
+"As a provider of DRS imaging services, I need access to terms of use statements for objects.  For example, aA limited menu of HL use-permissions statements could be formulated, stashed in DRS, and associated with individual resources, or whole classes of resources.  When we allow our digital resources to be used outside of our library systems (e.  g.  within DPLA, or other applications like the Library Lab funded Zeega project), the object can travel with the requisite use-permissions. ",2
+"As a provider of DRS imaging services, I need access to terms of use statements for objects.  For example, aA limited menu of HL use-permissions statements could be formulated, stashed in DRS, and associated with individual resources, or whole classes of resources.  When we allow our digital resources to be used outside of our library systems (e.  g.  within DPLA, or other applications like the Library Lab funded Zeega project), the object can travel with the requisite use-permissions. ",3
+"As a provider of DRS imaging services, I need access to terms of use statements for objects.  For example, aA limited menu of HL use-permissions statements could be formulated, stashed in DRS, and associated with individual resources, or whole classes of resources.  When we allow our digital resources to be used outside of our library systems (e.  g.  within DPLA, or other applications like the Library Lab funded Zeega project), the object can travel with the requisite use-permissions. ",3
+"As a public services staff in the Preservation Conservation and Digital Imaging services group, a researcher wants to order an image and Houghton PS staff needs to tell the researcher what the size or resolution of the image is without looking it up via DRS Webadmin.",2
+"As a public services staff in the Preservation Conservation and Digital Imaging services group, a researcher wants to order an image and Houghton PS staff needs to tell the researcher what the size or resolution of the image is without looking it up via DRS Webadmin.",4
+"As a public user, I want a web application that can locate all the DRS objects related to a specific collection or topic, e.g. ''Eleanor Roosevelt. ''.",3
+"As a public user, I want a web application that can locate all the DRS objects related to a specific collection or topic, e.g. ''Eleanor Roosevelt. ''.",4
+As a release engineer I can call a script to execute acceptance tests against a Neurohub installation and report back the results.,4
+"As a release engineer I can configure nightly builds that automatically perform a Neurohub installation on a **virgin operating system**, execute tests and report back results, without requiring any **manual input/interaction**.",2
+"As a release engineer I can configure nightly builds that automatically perform a Neurohub installation on a **virgin operating system**, execute tests and report back results, without requiring any **manual input/interaction**.",4
+"As a Repository Manager I want to create, update and delete any records in my repository.",2
+"As a Repository Manager I want to create, update and delete archival descriptions in my repository.",2
+"As a research information manager, I want to Integrate the archive with CRIS so that I can analyse impact of research data publication and I can link funding to all of the outputs it produces.",6
+"As a research information manager, I want to Segment view & download statistics by country and sector so that Impact of datasets outside academia can be demonstrated.",2
+"As a researcher adding new data to the system, I want to be able to select a partially pre-populated template (e.g. MINI) that already contains commonly entered meta data, so that I do not waste time repeatedly inserting the same meta data over and over again for each individual file or log book entry.",3
+"As a researcher adding new data to the system, I want to be able to select a partially pre-populated template (e.g. MINI) that already contains commonly entered meta data, so that I do not waste time repeatedly inserting the same meta data over and over again for each individual file or log book entry.",3
+"As a researcher executing a workflow, I want the details of the workflow plan as well as the execution history and (partial) results recorded in Neurohub.",2
+"As a researcher executing a workflow, I want the details of the workflow plan as well as the execution history and (partial) results recorded in Neurohub.",3
+"As a researcher executing a workflow, I want the details of the workflow plan as well as the execution history and (partial) results recorded in Neurohub.",4
+As a researcher I can attach currently non-attached files to a log book page.,4
+As a researcher I can create a log book page for an experiment and attach a directory that contains multiple files.,2
+As a researcher I can create a log book page for an experiment and attach a directory that contains multiple files.,4
+As a researcher I can create a log book page for an experiment and attach a file to this page.,2
+As a researcher I can create a log book page for an experiment and attach a file to this page.,4
+As a researcher I can create a log book page.,4
+As a researcher I can upload files prior to having them attached to a log book page using a mapped network drive.,4
+As a researcher I can upload files prior to having them attached to a log book page using the web interface.,4
+As a researcher I can upload files prior to having them attached to a log book page.,4
+"As a researcher in southampton Neuroscience, I want to be able to point my Mendeley client at a group-wide shared repository of research papers and get notifications via Mendeley when new content is added.",2
+"As a researcher using the Neurohub Web interface, I would like the ability to insert Greek symbols into my logbook entries.",4
+"As a researcher who has performed a bulk upload of directories and files, I want to be able to associate meta data to the group as a whole at some point in time after the bulk upload has completed, so that I have a period of time to reflect on suitable values for the meta data.",2
+"As a researcher working away from the laboratory, I want secure remote access to the Neurohub node.",4
+"As a researcher, I can access files stored in my Neurohub workspace, using a network drive attached to my workstation.",4
+"As a researcher, I can download files attached to an experiment using my Web browser.",4
+"As a researcher, I need to be able to search for images of cells (and brains) using standard meta data.",3
+"As a researcher, I need to be able to search for images of cells (and brains) using standard meta data.",4
+"As a researcher, I want a group-level repository for sharing papers/reviews/comments with other researchers.",4
+"As a researcher, I want a time line display of multiple data files and their associated images, so that I can compare the data taken from experiments on particular dates.",2
+"As a researcher, I want a time line display of multiple data files and their associated images, so that I can compare the data taken from experiments on particular dates.",4
+"As a researcher, I want any data that I have written to the VRE to be protected from modification or deletion (by myself or others) so that original data can always be traced back to an experiment and a point in time (although new versions of the data file can be uploaded).",3
+"As a researcher, I want any data that I have written to the VRE to be protected from modification or deletion (by myself or others) so that original data can always be traced back to an experiment and a point in time (although new versions of the data file can be uploaded).",4
+"As a researcher, I want electronic support for keeping track of which data sets (and revisions) were used/output/modified as part of a particular experiment.",2
+"As a researcher, I want electronic support for keeping track of which data sets (and revisions) were used/output/modified as part of a particular experiment.",3
+"As a researcher, I want electronic support for keeping track of which data sets (and revisions) were used/output/modified as part of a particular experiment.",4
+"As a researcher, I want physiology images to be annotated with standard meta data so that my data can later be searched for and understood.",4
+"As a researcher, I want remote access to my data for off-site working (e.g. working from home, or working while on an international visit), so that I can still work effectively while away from the lab.",4
+"As a researcher, I want remote access to my data for off-site working (e.g. working from home, or working while on an international visit), so that I can still work effectively while away from the lab.",2
+"As a researcher, I want remote access to my data for off-site working (e.g. working from home, or working while on an international visit), so that I can still work effectively while away from the lab.",3
+"As a researcher, I want remote access to my data for off-site working (e.g. working from home, or working while on an international visit), so that I can still work effectively while away from the lab.",3
+"As a researcher, I want services to support the long term curation of data (e.g. MRI scans, experiment output, intermediate files), so that I can be sure that data will not get 'lost' with the passage of time.",4
+"As a researcher, I want services to support the long term curation of data (e.g. MRI scans, experiment output, intermediate files), so that I can be sure that data will not get 'lost' with the passage of time.",3
+"As a researcher, I want services to support the long term curation of data (e.g. MRI scans, experiment output, intermediate files), so that I can be sure that data will not get 'lost' with the passage of time.",3
+"As a researcher, I want the ability to locate experiment files using meta data (e.g. find all files that relate to Neuron 42), regardless of where those files are located.",4
+"As a researcher, I want the ability to locate experiment files using meta data (e.g. find all files that relate to Neuron 42), regardless of where those files are located.",3
+"As a researcher, I want the ability to locate experiment files using meta data (e.g. find all files that relate to Neuron 42), regardless of where those files are located.",3
+"As a researcher, I want the ability to restrict the data I share to certain researchers or groups of researchers.",4
+"As a researcher, I want the system to provide standard metadata, that all researchers in the centre (and beyond) can use so that we can better understand each others' data.",3
+"As a researcher, I want the system to provide standard metadata, that all researchers in the centre (and beyond) can use so that we can better understand each others' data.",4
+"As a researcher, I want to be able to attach detailed meta data (e.g. the Minimal Information for a Neuroscience Investigation MINI schema) to the data and entries that I create.",2
+"As a researcher, I want to be able to attach detailed meta data (e.g. the Minimal Information for a Neuroscience Investigation MINI schema) to the data and entries that I create.",3
+"As a researcher, I want to be able to attach detailed meta data (e.g. the Minimal Information for a Neuroscience Investigation MINI schema) to the data and entries that I create.",3
+"As a researcher, I want to be able to attach standard meta data for behavioural observations (and video), so that my data can later be searched for and understood.",3
+"As a researcher, I want to be able to indicate within my electronic log book which experimental data is good/bad, hide the bad data, but still keep it in the system just in case it is useful in the future.",2
+"As a researcher, I want to be able to interact with a revision control system so that I can keep track of changes to files (e. g hypothesis, notes, experiment descriptions, questionnaires, input files, results) over time.",3
+"As a researcher, I want to be able to interact with a revision control system so that I can keep track of changes to files (e. g hypothesis, notes, experiment descriptions, questionnaires, input files, results) over time.",3
+"As a researcher, I want to be able to locate and access data that colleagues want to share.",2
+"As a researcher, I want to be able to search for files by file type (for example electro physiology, image and video) and format (e.g. . eeg, DICOM, MPEG-2).",3
+"As a researcher, I want to be able to search for files by file type (for example electro physiology, image and video) and format (e.g. . eeg, DICOM, MPEG-2).",3
+"As a researcher, I want to be able to share post-experiment write-ups with other researchers (e.g. sharing protocols and workflows for conducting specific types of experiments) so that others can more easily replicate my work.",2
+"As a researcher, I want to be able to share post-experiment write-ups with other researchers (e.g. sharing protocols and workflows for conducting specific types of experiments) so that others can more easily replicate my work.",3
+"As a researcher, I want to be able to share post-experiment write-ups with other researchers (e.g. sharing protocols and workflows for conducting specific types of experiments) so that others can more easily replicate my work.",3
+"As a researcher, I want to be able to store all the inputs for an experiment (data files, notes and custom scripts) so that the provenance of the results can be verified.",3
+"As a researcher, I want to collect data as a library of data, which can then be used by one or multiple experiments that are defined at a later stage (perhaps years later).",2
+"As a researcher, I want to collect data as a library of data, which can then be used by one or multiple experiments that are defined at a later stage (perhaps years later).",3
+"As a researcher, I want to expose the text files in bulk for data mining so I can search for subsets of text files based on metadata from other systems.",4
+"As a researcher, I would like at least some meta data to be automatically inserted when new data is added to the system.",4
+"As a researcher, the system will alert me of any unattached files that are in my workspace.",4
+As a respondent I want to be able to respond to a complaint submitted against me so I don't get fined.,4
+"As a site a site editor, I can set the following dates on a news item: Start Publishing Date, Old.",3
+"As a site a site editor, I can set the following dates on a news item: Start Publishing Date, Old.",4
+"As a site admin who has received proof of payment from a trainer, I can move people in his or her class from a pending state to the registry.",2
+"As a site admin who has received proof of payment from a trainer, I can move people in his or her class from a pending state to the registry.",4
+"As a site admin, I am emailed whenever a job is submitted (so that I am aware of it and can decide if I want to post it).",3
+"As a site admin, I am emailed whenever a job is submitted (so that I am aware of it and can decide if I want to post it).",4
+"As a site admin, I can delete any course or event.",4
+"As a site admin, I can edit and delete help wanted ads.",2
+"As a site admin, I can edit and delete help wanted ads.",4
+"As a site admin, I can see the results for each trainer and averages for the class (for all trainers).",3
+"As a site admin, I can see the results for each trainer and averages for the class (for all trainers).",4
+"As a site admin, I can view all classes in a pending state.",4
+"As a site admin, I need to approve each help wanted ad before it gets to the site.",4
+"As a site admin, I want jobs to stop publishing on the site 30 days after being posted. (Note: 30 days doesn’t need to be configurable at this point. Hardcoding is fine for now.).",3
+"As a site admin, I want jobs to stop publishing on the site 30 days after being posted. (Note: 30 days doesn’t need to be configurable at this point. Hardcoding is fine for now.).",3
+"As a site admin, I want jobs to stop publishing on the site 30 days after being posted. (Note: 30 days doesn’t need to be configurable at this point. Hardcoding is fine for now.).",4
+"As a site administrator, I can create an Other Course (?) or Event that is not charged a listing fee. This is so that the Scrum Alliance doesn’t charge itself for Scrum Gatherings that it puts on.",2
+"As a site administrator, I can create an Other Course (?) or Event that is not charged a listing fee. This is so that the Scrum Alliance doesn’t charge itself for Scrum Gatherings that it puts on.",3
+"As a site administrator, I can create an Other Course (?) or Event that is not charged a listing fee. This is so that the Scrum Alliance doesn’t charge itself for Scrum Gatherings that it puts on.",3
+"As a site administrator, I can create an Other Course (?) or Event that is not charged a listing fee. This is so that the Scrum Alliance doesn’t charge itself for Scrum Gatherings that it puts on.",4
+"As a site administrator, I can edit any site member profile.",4
+"As a site administrator, I can read practicing and training applications and approve or reject them.",2
+"As a site administrator, I can read practicing and training applications and approve or reject them.",4
+"As a site administrator, I can set the annual fees for members, Practitioners and Trainers.",4
+"As a site administrator, I can set the listing fee per Other Course or Event.",4
+"As a site editor, I can assign priority numbers to news items. Items are displayed on the front page based on priority.",3
+"As a site editor, I can assign priority numbers to news items. Items are displayed on the front page based on priority.",4
+"As a site editor, I can create the content of the What Is Scrum section.",4
+"As a site editor, I can edit the content of the email automatically sent to new Certified ScrumMasters and Product Owners.",4
+"As a site editor, I can maintain an FAQ section.",4
+"As a site editor, I can post information in a trainers-only section.",4
+"As a site editor, I can set start publishing dates (when teaser appears on front page), old article date (when it disappears from home page), and stop publishing dates (when it's removed from site, if ever) for articles.",2
+"As a site editor, I can set start publishing dates (when teaser appears on front page), old article date (when it disappears from home page), and stop publishing dates (when it's removed from site, if ever) for articles.",3
+"As a site editor, I can set start publishing dates (when teaser appears on front page), old article date (when it disappears from home page), and stop publishing dates (when it's removed from site, if ever) for articles.",4
+"As a site editor, I can update any course or event.",4
+"As a site editor, I have ideas on how I want the home page to look and feel.",2
+"As a site editor, I have ideas on how I want the home page to look and feel.",4
+"As a site editor, I want to be able to designate whether or not an article (or for that matter any piece of info) ever makes the home page. . . some things will not.",2
+"As a site editor, I want to be able to designate whether or not an article (or for that matter any piece of info) ever makes the home page. . . some things will not.",3
+"As a site editor, I want to be able to designate whether or not an article (or for that matter any piece of info) ever makes the home page. . . some things will not.",3
+"As a site editor, I want to have a prominent area on the home page where I can put special announcements, not necessarily news or articles.",6
+"As a site editor, I'd like to have some flexibility as to where things appear to accommodate different types of content.",4
+"As a site member (?), I can scroll through a listing of jobs. (There won’t be enough at first to justify search fields.).",3
+"As a site member (?), I can scroll through a listing of jobs. (There won’t be enough at first to justify search fields.).",3
+"As a site member (?), I can scroll through a listing of jobs. (There won’t be enough at first to justify search fields.).",4
+"As a site member who has read a teaser on the front page, I want to read the entire article. (Note: We want any site visitor to read articles for now.).",3
+"As a site member who has read a teaser on the front page, I want to read the entire article. (Note: We want any site visitor to read articles for now.).",3
+"As a site member, I can do a full-text search of the FAQs. (Maybe we want this for any site visitor?).",3
+"As a site member, I can do a full-text search of the FAQs. (Maybe we want this for any site visitor?).",3
+"As a site member, I can do a full-text search of the FAQs. (Maybe we want this for any site visitor?).",4
+"As a site member, I can download the latest training material and methodology PDFs.",4
+"As a site member, I can fill out an application to become a Practitioner.",4
+"As a site member, I can fill out an application to become a Trainer.",4
+"As a site member, I can mark my email address as private even if the rest of my profile is not.",4
+"As a site member, I can mark my profile as private in which case only my name will appear.",4
+"As a site member, I can search for profiles based on a few fields (class attended, location, name).",3
+"As a site member, I can search for profiles based on a few fields (class attended, location, name).",4
+"As a site member, I can send an email to any member via a form.",4
+"As a site member, I can subscribe to an RSS feed of jobs available.",4
+"As a site member, I can subscribe to an RSS feed of news (and events? or are they separate?).",2
+"As a site member, I can subscribe to an RSS feed of news (and events? or are they separate?).",3
+"As a site member, I can subscribe to an RSS feed of news (and events? or are they separate?).",3
+"As a site member, I can subscribe to an RSS feed of news (and events? or are they separate?).",4
+"As a site member, I can view the profiles of other members.",4
+"As a site member, I want to describe myself on my own page in a semi-structured way. That is, I can fill in predefined fields, but also have room for a free-text field or two. (It would be nice to let this free text be HTML or similar.).",2
+"As a site member, I want to describe myself on my own page in a semi-structured way. That is, I can fill in predefined fields, but also have room for a free-text field or two. (It would be nice to let this free text be HTML or similar.).",3
+"As a site member, I want to describe myself on my own page in a semi-structured way. That is, I can fill in predefined fields, but also have room for a free-text field or two. (It would be nice to let this free text be HTML or similar.).",3
+"As a site member, I want to describe myself on my own page in a semi-structured way. That is, I can fill in predefined fields, but also have room for a free-text field or two. (It would be nice to let this free text be HTML or similar.).",6
+"As a site member, the upcoming courses are what I want visitors to notice.",4
+"As a site visitor who is considering attending a certification course, I want to see a trainer’s rating (either for that course or for all of his or her certification courses combined).",2
+"As a site visitor who is considering attending a certification course, I want to see a trainer’s rating (either for that course or for all of his or her certification courses combined).",3
+"As a site visitor, I can access old news that is no longer on the home page.",4
+"As a site visitor, I can do a full-text search of article body, title, and author name.",4
+"As a site visitor, I can email news items to the editor. (Note: this could just be an email link to the editor.).",3
+"As a site visitor, I can email news items to the editor. (Note: this could just be an email link to the editor.).",3
+"As a site visitor, I can email news items to the editor. (Note: this could just be an email link to the editor.).",4
+"As a site visitor, I can post comments about articles so that others can read them.",4
+"As a site visitor, I can read current news on the home page.",4
+"As a site visitor, I can read FAQs.",4
+"As a site visitor, I can see a list of all upcoming “Certification Courses. ” I can page through them if there are a lot.",3
+"As a site visitor, I can see a list of all upcoming “Certification Courses. ” I can page through them if there are a lot.",6
+"As a site visitor, I can see a list of all upcoming “Certification Courses. ” I can page through them if there are a lot.",4
+"As a site visitor, I can see a list of all upcoming “Events. ” (Events are things such as the Scrum Gathering, conferences, free seminars, etc.).",3
+"As a site visitor, I can see a list of all upcoming “Events. ” (Events are things such as the Scrum Gathering, conferences, free seminars, etc.).",3
+"As a site visitor, I can see a list of all upcoming “Events. ” (Events are things such as the Scrum Gathering, conferences, free seminars, etc.).",4
+"As a site visitor, I can see a list of all upcoming “Other Courses” (non-certification courses). I can page through them if necessary.",3
+"As a site visitor, I can see a list of all upcoming “Other Courses” (non-certification courses). I can page through them if necessary.",3
+"As a site visitor, I can see a list of all upcoming “Other Courses” (non-certification courses). I can page through them if necessary.",6
+"As a site visitor, I can see a list of all upcoming “Other Courses” (non-certification courses). I can page through them if necessary.",4
+"As a site visitor, I can subscribe to an RSS feed of articles. (Teasers only?).",3
+"As a site visitor, I can subscribe to an RSS feed of articles. (Teasers only?).",3
+"As a site visitor, I can subscribe to an RSS feed of articles. (Teasers only?).",4
+"As a site visitor, I can subscribe to an RSS feed of upcoming courses and events.",4
+"As a site visitor, I can view lists on the site of all Certified ScrumMasters, Practitioners, Trainers, and Certified Product Owners. (The CSM list has over 5,000 names so a letter-based pagination approach is needed.).",2
+"As a site visitor, I can view lists on the site of all Certified ScrumMasters, Practitioners, Trainers, and Certified Product Owners. (The CSM list has over 5,000 names so a letter-based pagination approach is needed.).",3
+"As a site visitor, I can view lists on the site of all Certified ScrumMasters, Practitioners, Trainers, and Certified Product Owners. (The CSM list has over 5,000 names so a letter-based pagination approach is needed.).",3
+"As a site visitor, I can view lists on the site of all Certified ScrumMasters, Practitioners, Trainers, and Certified Product Owners. (The CSM list has over 5,000 names so a letter-based pagination approach is needed.).",4
+"As a site visitor, I have an advanced search option that lets me fill in a form of search criteria (country, state, trainer name, date range, word in description, etc.).",3
+"As a site visitor, I have an advanced search option that lets me fill in a form of search criteria (country, state, trainer name, date range, word in description, etc.).",3
+"As a site visitor, I have an advanced search option that lets me fill in a form of search criteria (country, state, trainer name, date range, word in description, etc.).",4
+"As a site visitor, I need to know as soon as I visit what on earth Scrum is, and why it needs an alliance.",2
+"As a site visitor, I need to know as soon as I visit what on earth Scrum is, and why it needs an alliance.",4
+"As a site visitor, I want the link from the article teaser to take me directly to the body of the article. . . not to another teaser setup.",3
+"As a site visitor, I want the link from the article teaser to take me directly to the body of the article. . . not to another teaser setup.",4
+"As a site visitor, I want there to be a section of the website that teaches me the basics of what Scrum is.",4
+"As a site visitor, I want to have articles that interest me and are easy to get to.",2
+"As a site visitor, I want to know as I glance around the home page what on earth a CSM is and why I'd want to be one.",2
+"As a site visitor, I want to see a list of the most popular items on the site. (Note: Not everything has to be considered. For example, we don’t need to know the most popular profile but it would be useful to a have a ""most popular"" box that listed the most popular articles, news items, or etc.).",3
+"As a site visitor, when I’m viewing a course I can click on the trainer’s name and be taken to the trainer’s profile.",2
+"As a site visitor, when I’m viewing a course I can click on the trainer’s name and be taken to the trainer’s profile.",4
+As a Staples White label site I need to change the content on core pages so I can reflect the text I need to display.,4
+"As a student group we would like to have a shared space to post flyers, to promote events so that students could find clubs they are interested in.",4
+As a student I don't want to have to filter through ads to get to important content.,4
+As a student I don't want to have to log in; I want a responsive system that notifies me when I have a message or a payment is received.,4
+As a student I like to be able to adjust the colors in the applications I use.,4
+As a student I like to have things color coded so I can use color to see at a glance the different categories of things I have to do.,4
+"As a student I like to keep my personal, work/club and course email separate.",4
+As a student I need a back-up plan for viewing my calendar & tasks if electronics fail.,4
+As a student I need a place to see everything I need to do today.,4
+As a student I need one place to look for all my campus announcements/notifications to make sure I don't miss any.,4
+As a student I need to collaboratively create documents with other students so that we can work efficiently on a group project.,4
+As a student I need to figure out what email is important to me.(One suggestion: good subject lines.).,4
+As a student I need to filter out email that isn't important to me so my time isn't consumed with managing emails.,4
+As a student I need to keep track of the tasks and assignments I have to do so I get them done on time and don't forget any of them.,4
+As a student I need to schedule events in an efficient manner.,4
+As a student I need to schedule meetings with other students so that we can work together.,4
+As a student I want a better explanation of housing options available to me so that I can easily find a good living situation.,4
+"As a student I want a portable, accessible way to keep track of what I need to do.",4
+As a student I want access to my data even when I'm not online.,4
+"As a student I want email addresses, not contact forms, so I can contact offices even when I'm offline.",4
+"As a student I want more help knowing who to turn to when I have a problem, and be encouraged to do so.",4
+As a student I want more transparency and communications about getting into a class & wait list rules and processing.,4
+As a student I want my tasks to disappear (from the A&T graphic) after I've completed them.,4
+As a student I want one place to go when registering for classes (including finding class ratings).,4
+As a student I want one source to go to to see all my assignments.,4
+As a student I want to be able to easily see my upcoming events and tasks (e.g. with large calendar).,3
+As a student I want to be able to easily see my upcoming events and tasks (e.g. with large calendar).,3
+As a student I want to be able to keep separate my personal (and club) tasks from my work (academic) tasks.,3
+"As a student I want to easily discover campus resources such as health benefits, housing options, and how to get around campus.",2
+"As a student I want to have accurate, clear presentation of add/drop dates & processes.",2
+As a student I want to have all of my financial information in one place so I know how much money I have.,4
+"As a student I want to have clear explanation of the enrolllment process, including waitlist so that I don't end up in a class I don't want by mistake (which happened).",3
+"As a student I want to have personalized financial data so that I am only looking at data that is relevant to me (e.g. because I'm an international student, do not show financial aid information).",3
+"As a student I want to have personalized financial data so that I am only looking at data that is relevant to me (e.g. because I'm an international student, do not show financial aid information).",3
+"As a student I want to have something that presents and helps me keep track of all the steps for tasks (e.g. attaining California residency, graduation-related items).",2
+"As a student I want to have something that presents and helps me keep track of all the steps for tasks (e.g. attaining California residency, graduation-related items).",3
+"As a student I want to have something that presents and helps me keep track of all the steps for tasks (e.g. attaining California residency, graduation-related items).",3
+As a student I want to have up to date information when planning my schedule. (PAIN POINT: schedule. berkeley. edu isn't always correct.).,3
+As a student I want to have up to date information when planning my schedule. (PAIN POINT: schedule. berkeley. edu isn't always correct.).,3
+As a student I want to receive notifications from BearFacts (in CalCentral).,3
+"As a student I want to receive notifications on my mobile device (iPhone), such as grade posting notices.",3
+As a student I want to see a plan of what classes are planned for the upcoming 3-4 years so that I can ensure I can take the classes I need to graduate.,6
+As a student I want to see information from Callisto & the Career Center when thinking about getting a job.,2
+As a student I want to view and pay my university bills in one place so that it's more like the real world.,2
+"As a student I would like access to ""deals"" from local food vendors so I can save money.",4
+As a student I would like help setting a budget.,4
+As a student I would like to be able to easily ascertain what an email is about (e.g. good subject line & table of contents).,4
+"As a student I would like to be able to easily see how much my assignments count towards my grade, and would like to see my grades in the context of the syllabus.",4
+As a student I would like to see how my awards compare to my bills.,4
+As a student I'd like a degree planner that plans against a real class schedule allowing me to finish in 4 years.,4
+As a student I'd like a map and walking directions for the campus.,4
+As a student I'd like campus applications to work on my phone.,4
+As a student I'd like to be able to bookmark class sites that aren't automatically included (e.g. Piazza) in CalCentral.,4
+As a student I'd like to be able to post to multiple places at once (e.g. CalCentral & Facebook).,4
+As a student I'd like to check off and see my completed tasks.,4
+As a student I'd like to connect with alumni that have gone into my field.,4
+As a student I'd like to see how much I owe on my UCB bill.,4
+As a student I'd like to see my Cal1Card balance.,4
+As a student I'd like to see my UCB bills & awards in the context of my personal budget.,4
+As a student I'd like to see the syllabus without having to download it.,4
+"As a student, I want my events and tasks (assignments) automatically provided and prominently displayed.",4
+"As a student, I want to be able to distinguish or filter in assignments with deliverables (e.g. papers) while filtering out assignments without deliverables (e.g. readings) so that I can prioritize.",2
+"As a student, I want to be able to distinguish or filter in assignments with deliverables (e.g. papers) while filtering out assignments without deliverables (e.g. readings) so that I can prioritize.",3
+"As a student, I want to be able to distinguish or filter in assignments with deliverables (e.g. papers) while filtering out assignments without deliverables (e.g. readings) so that I can prioritize.",3
+"As a student, I want to be able to easily find campus resources even if they aren't in a clear category (e.g. My Campus potentially overlapping catgories), so that during discovery I don't miss anything.",3
+"As a student, I want to be able to easily find campus resources even if they aren't in a clear category (e.g. My Campus potentially overlapping catgories), so that during discovery I don't miss anything.",3
+"As a student, I want to be able to filter notifications, e.g. filter out or flag items (e.g. university-wide items from instructor items), so that I can easily see the most relevant, important items.",3
+"As a student, I want to be able to filter notifications, e.g. filter out or flag items (e.g. university-wide items from instructor items), so that I can easily see the most relevant, important items.",3
+"As a student, I want to be able to manage/integrate my personal budget, so that I know I can pay my bills.",2
+"As a student, I want to be able to manage/integrate my personal budget, so that I know I can pay my bills.",6
+"As a student, I want to clearly understand notifications and how they are difference from other calendar-related items such as assignments, so that I can make sure I know all that I need to do.",2
+"As a student, I want to easily see when I have to pay my bill and how much I owe so that I don't have a registration block or pay late fees.",2
+"As a student, I want to have links to my disparate class websites (including Piazza and edX) collected in one place.",2
+"As a student, I want to have links to my disparate class websites (including Piazza and edX) collected in one place.",3
+"As a student, I want to personalize news feeds (e.g. Daily Cal instead of campus news).",3
+"As a student, I want to personalize news feeds (e.g. Daily Cal instead of campus news).",3
+"As a student, I'd like to see events and tasks for a month at a time, so that I can plan ahead.",4
+As a supervisor I can view what my researchers were doing on a given date or period of time.,4
+"As a supervisor, I would like to be able to create feedback forms within Neurohub, that my students can fill in and submit, in order to provide me with feedback about the course that they attended.",2
+"As a supervisor, I would like to be able to create feedback forms within Neurohub, that my students can fill in and submit, in order to provide me with feedback about the course that they attended.",4
+As a system administrator I can migrate data from an older version of NeuroHub to the current version.,4
+As a system administrator I can run a script that installs the Neurohub node onto a virgin Ubuntu operating system.,4
+As a system administrator I can run a script that tests to see if a Neurohub installation is functioning correctly.,4
+As a system administrator I want to define presentation variants in my presentation configuration xml file so I can easily and efficiently deploy my presentation throughout DTAP.,4
+As a system administrator there should be a managed backup protocol for the system.,4
+As a system integrator I want function to convert tag to id so that I make calls to other functions that depend on an id.,4
+As a system integrator I want Historian-Collector to have an interface To receive data from other apps through an api.,4
+As a systems administrator I can install Neurohub dependencies into an Ubuntu 10. 04 LTS machine using the normal Ubuntu package management tools.,4
+As a systems administrator I can install Neurohub dependencies into an Ubuntu 10. 04 LTS machine using the normal Ubuntu package management tools.,3
+"As a systems administrator, I want to be able to control the location of the demo database, and I want it to be backed up.",2
+"As a systems administrator, I want to be able to control the location of the demo database, and I want it to be backed up.",6
+"As a trainer who has finished teaching a Certification class, I can load an Excel file (first name, last name, email) into the site.  I am prompted for the trainer names (I may not have trained alone), certification date, and type of certification (i.e., CSM or CPO).  The names are loaded into a pending state and not yet added to the registry.  (Note: We could have this charge $50 per person right then.  ). ",4
+"As a trainer who has finished teaching a Certification class, I can load an Excel file (first name, last name, email) into the site.  I am prompted for the trainer names (I may not have trained alone), certification date, and type of certification (i.e., CSM or CPO).  The names are loaded into a pending state and not yet added to the registry.  (Note: We could have this charge $50 per person right then.  ). ",2
+"As a trainer who has finished teaching a Certification class, I can load an Excel file (first name, last name, email) into the site.  I am prompted for the trainer names (I may not have trained alone), certification date, and type of certification (i.e., CSM or CPO).  The names are loaded into a pending state and not yet added to the registry.  (Note: We could have this charge $50 per person right then.  ). ",3
+"As a trainer who has finished teaching a Certification class, I can load an Excel file (first name, last name, email) into the site.  I am prompted for the trainer names (I may not have trained alone), certification date, and type of certification (i.e., CSM or CPO).  The names are loaded into a pending state and not yet added to the registry.  (Note: We could have this charge $50 per person right then.  ). ",3
+"As a trainer, admin, or editor, I can turn a course into an event or an event into a course (in case it was entered in the wrong category).  (Note: making something a Certification Course will probably require selecting the name of the course from the pre-approved list.  ). ",4
+"As a trainer, admin, or editor, I can turn a course into an event or an event into a course (in case it was entered in the wrong category).  (Note: making something a Certification Course will probably require selecting the name of the course from the pre-approved list.  ). ",2
+"As a trainer, admin, or editor, I can turn a course into an event or an event into a course (in case it was entered in the wrong category).  (Note: making something a Certification Course will probably require selecting the name of the course from the pre-approved list.  ). ",3
+"As a trainer, admin, or editor, I can turn a course into an event or an event into a course (in case it was entered in the wrong category).  (Note: making something a Certification Course will probably require selecting the name of the course from the pre-approved list.  ). ",3
+"As a trainer, I am notified about the results of surveys about my classes. (Questions: After each survey? After a set period of time? Does the trainer get an email or just know to go to the site?).",2
+"As a trainer, I am notified about the results of surveys about my classes. (Questions: After each survey? After a set period of time? Does the trainer get an email or just know to go to the site?).",3
+"As a trainer, I am notified about the results of surveys about my classes. (Questions: After each survey? After a set period of time? Does the trainer get an email or just know to go to the site?).",3
+"As a trainer, I am notified about the results of surveys about my classes. (Questions: After each survey? After a set period of time? Does the trainer get an email or just know to go to the site?).",4
+"As a trainer, I can copy one of my courses or events so that I can create a new one.",4
+"As a trainer, I can create a new course or event.  This includes the following information: name, description (HTML), trainer names (multiple selection from a list), start date, end date, venue name (HTML) and address, contact name, contact phone, contact email, a link for more information, and a link to register.  For a certification course the name of the class is a dropdown list; for others, it is free text. ",4
+"As a trainer, I can create a new course or event.  This includes the following information: name, description (HTML), trainer names (multiple selection from a list), start date, end date, venue name (HTML) and address, contact name, contact phone, contact email, a link for more information, and a link to register.  For a certification course the name of the class is a dropdown list; for others, it is free text. ",2
+"As a trainer, I can create a new course or event.  This includes the following information: name, description (HTML), trainer names (multiple selection from a list), start date, end date, venue name (HTML) and address, contact name, contact phone, contact email, a link for more information, and a link to register.  For a certification course the name of the class is a dropdown list; for others, it is free text. ",3
+"As a trainer, I can create a new course or event.  This includes the following information: name, description (HTML), trainer names (multiple selection from a list), start date, end date, venue name (HTML) and address, contact name, contact phone, contact email, a link for more information, and a link to register.  For a certification course the name of the class is a dropdown list; for others, it is free text. ",3
+"As a trainer, I can delete one of my courses or events.",4
+"As a trainer, I can read information of relevance only to trainers.",4
+"As a trainer, I can update one of my existing courses or events.",4
+"As a Trainer, I want my profile page to include additional details about me (i.e., some of the answers to my Trainer application).",3
+"As a Trainer, I want my profile page to include additional details about me (i.e., some of the answers to my Trainer application).",3
+"As a Trainer, I want my profile page to include additional details about me (i.e., some of the answers to my Trainer application).",4
+"As a trainer, I want my profile to list my upcoming classes and include a link to a detailed page about each.",2
+"As a trainer, I want my profile to list my upcoming classes and include a link to a detailed page about each.",4
+"As a trainer, I want my rating to show up on my profile page.",4
+"As a trainer, I want to be assured that no one can submit the same answers multiple time and skew my results.",2
+"As a trainer, when I create an Other Course or Event, I am charged a listing fee for that activity. (Note: We’ll need this to tie into credit card processing.).",2
+"As a trainer, when I create an Other Course or Event, I am charged a listing fee for that activity. (Note: We’ll need this to tie into credit card processing.).",3
+"As a trainer, when I create an Other Course or Event, I am charged a listing fee for that activity. (Note: We’ll need this to tie into credit card processing.).",3
+"As a trainer, when I create an Other Course or Event, I am charged a listing fee for that activity. (Note: We’ll need this to tie into credit card processing.).",4
+"As a university press, I want to be able to request publication rights throu a S/W interface, so that I can speed e-book publication.",4
+"As a university press, I want to be able to request publication rights throu a S/W interface, so that I can speed e-book publication.",6
+"As a user adding important news items to Neurohub, I would like the system to also forward the items to an external mailing list.",4
+"As a user changing my password in the Neurohub Node's Web interface, I want the change to be applied automatically to the Neurohub file repository as well, so that I only ever have to change my password in one place.",4
+As a User I am able to set a new password so that I can login.,4
+As a user I can assign bespoke information to a file dependent on its type.,4
+As a user I can assign tags to files that I have uploaded.,4
+As a user I can attach multiple files at once to a log book page.,4
+As a user I can download files directly from the search results page.,4
+As a user I can filter the files I get from search results based on their (MIME) type.,3
+As a user I can filter the files I get from search results based on their (MIME) type.,4
+As a user I can limit my search results to one or more log book sections from one or more log books.,4
+As a user I can limit my search to a particular set of log books.,4
+As a User I can login using my email address and password so that I get access to the User -only features of the website.,4
+As a user I can navigate forwards and backwards between log books and log book pages without having to use my browser's back button.,2
+As a user I can navigate forwards and backwards between log books and log book pages without having to use my browser's back button.,4
+As a User I can request a password reset so that I am still able to login whenever I forgot my password.,4
+As a user I can see the provenance of the page (e.g. its log book / log book section) as part of the search results.,4
+As a user I can see the provenance of the page (e.g. its log book / log book section) as part of the search results.,2
+As a user I can see the provenance of the page (e.g. its log book / log book section) as part of the search results.,3
+As a user I can see the provenance of the page (e.g. its log book / log book section) as part of the search results.,3
+As a user I can store worm behaviour videos with an encoding that can be analysed by the worm analysis software written by Christopher James.,4
+As a user I can sync events created in NeuroHub with a web-based Calendar such as Google Calendar.,4
+As a user I can upload large files of over 1GB in size.,4
+As a user I need accurate pricing so that I can accurately plan my purchase.,4
+As a user I need to be able to apply a 5% Discount to my postage rate so I can receive the correct pricing.,4
+As a user I should be able enter metadata / describe an experiment protocol before a file is even created.,2
+As a user I should be able enter metadata / describe an experiment protocol before a file is even created.,4
+As a user I want a brief summary of how turbulence is measured.,4
+As a user I want a visual way of viewing particular files uploaded over a time period.,4
+As a user I want files I might accidentally delete to be restorable.,4
+As a user I want to be able to create a protocol 'run' and assign metadata to any 'run' stage.,2
+As a user I want to be able to manage the references / papers I have investigated.,2
+"As a user I want to be able to modify or branch an experimental protocol, whilst retaining the original.",2
+As a user I want to be alerted to potential  turbulence 10 min  before it  occurs (can be crowdsourced based on previous data).,3
+As a user I want to be alerted to potential  turbulence 10 min  before it  occurs (can be crowdsourced based on previous data).,3
+As a user I want to search for and download human-readable experimental protocols.,2
+"As a user I would like my Twitter Tweets to appear in Neurohub, so that other researchers in the centre can see what I am up to.",4
+As a User I'm able to add a description to a person's profile page.,4
+As a User I'm able to add an audio fragment (soundcloud link) to a person's profile page.,3
+As a User I'm able to add an audio fragment (soundcloud link) to a person's profile page.,4
+As a User I'm able to add an image to a person's profile page.,4
+As a User I'm able to add an video (YouTube Vimeo link) to a person's profile page.,3
+As a User I'm able to add an video (YouTube Vimeo link) to a person's profile page.,4
+As a User I'm able to add content to the selected profile.,4
+As a User I'm able to add text to a person's profile page.,4
+As a User I'm able to click a particular plot location from the map and thereby perform a search of people associated with that plot number.,2
+As a User I'm able to click a particular plot location from the map and thereby perform a search of people associated with that plot number.,4
+As a User I'm able to delete content (which I added) from a person's profile page so that I remove information that I no longer want to share.,3
+As a User I'm able to delete content (which I added) from a person's profile page so that I remove information that I no longer want to share.,4
+As a User I'm able to edit the content that I added from a person's profile page to update the information.,4
+As a User I'm able to logout so that other Users of my device don't have access to my private account.,4
+As a User I'm able to open the interactive map from a person's profile page so that I can see that particular plot location.,4
+As a User I'm able to view an interactive map of the Event Region so that I can find event locations.,4
+As a User I'm able to view an interactive map of the Event Region so that I can view intact mass event locations listed by plot #.,4
+"As a user posting content to Neurohub, I would like to have the option to tell Neurohub to push the content to my Twitter feed at the same time.",4
+"As a user processing data, I want the ability to move multiple files around and rearrange them using the Neurohub file browser.",2
+"As a user processing data, I want the ability to move multiple files around and rearrange them using the Neurohub file browser.",4
+"As a user running a work flow, I want details of the work flow's execution to be recorded in a neurohub log book.",4
+As a user the tags that I use are part of a controlled vocabulary.,4
+"As a User, I want a browser-based Data Warehouse solution that does not require a browser plug-in.",4
+"As a User, I want a button that allows me to 'share' things that I discover on the Data Warehouse via a URL link, Twitter and. . . ",4
+"As a User, I want a button that allows me to 'share' things that I discover on the Data Warehouse via a URL link, Twitter and. . . ",3
+"As a user, I want a mechanism for electronically sharing papers and notes with other researchers, so that we can collaborate effectively.",4
+"As a User, I want a robust and easy-to-use search engine to help me find the geospatial data, web services, and. . .",4
+"As a User, I want a robust and easy-to-use search engine to help me find the geospatial data, web services, and. . .",2
+"As a User, I want a robust and easy-to-use search engine to help me find the geospatial data, web services, and. . .",3
+"As a User, I want access to aerial photos (eg: VT orthos) with no downloading required (ie: as a web service).",3
+"As a User, I want access to aerial photos (eg: VT orthos) with no downloading required (ie: as a web service).",3
+"As a User, I want access to aerial photos (eg: VT orthos) with no downloading required (ie: as a web service).",4
+"As a User, I want access to data and web services which are openly available in a manner consistent with OpenDefinition. org's. . .",4
+"As a User, I want access to data and web services which are openly available in a manner consistent with OpenDefinition. org's. . .",3
+"As a User, I want access to data standards and data templates for download.",4
+"As a User, I want access to ESRI layerfile packages.",4
+"As a User, I want access to ESRI layerfiles (symbology) used to render GIS data layers.",3
+"As a User, I want access to ESRI layerfiles (symbology) used to render GIS data layers.",4
+"As a User, I want access to 'help' resources and media (such as YouTube videos) on how to use GIS data, web services, web. . . ",4
+"As a User, I want access to 'help' resources and media (such as YouTube videos) on how to use GIS data, web services, web. . . ",2
+"As a User, I want access to 'help' resources and media (such as YouTube videos) on how to use GIS data, web services, web. . . ",3
+"As a User, I want access to 'help' resources and media (such as YouTube videos) on how to use GIS data, web services, web. . . ",3
+"As a User, I want access to historical aerial photos.",4
+"As a User, I want access to historical 'snapshots' of VT GIS data.",4
+"As a User, I want access to imagery organized by year (whether for download or web service).",3
+"As a User, I want access to imagery organized by year (whether for download or web service).",4
+"As a User, I want access to VT GIS data layers with no downloading required (ie: as a web service).",3
+"As a User, I want access to VT GIS data layers with no downloading required (ie: as a web service).",3
+"As a User, I want access to VT GIS data layers with no downloading required (ie: as a web service).",4
+"As a User, I want all data that I find to be available for download (not just a link to an external website).",3
+"As a User, I want all data that I find to be available for download (not just a link to an external website).",4
+"As a User, I want all of the data to have the good metadata and keyword tagging.",4
+"As a User, I want all technical terms to be linked to explanations so I don't have to be a GIS expert.",4
+"As a user, I want an RSS feed so I can collect records as new titles go online, since HL will digitize pamphlets for years.",4
+"As a User, I want 'authoritative' datasets to be discoverable and clearly identified.",2
+"As a User, I want 'authoritative' datasets to be discoverable and clearly identified.",4
+"As a User, I want data and imagery downloads to include embedded metadata.",2
+"As a User, I want data and imagery downloads to include embedded metadata.",4
+"As a User, I want metadata that is easy to read with a quick way to get to attribute descriptions and attribute codes.",4
+"As a User, I want more format/projection options when downloading.",2
+"As a User, I want more format/projection options when downloading.",4
+"As a user, I want potential causes of turbulence.(weather, unstable air).",3
+"As a user, I want potential causes of turbulence.(weather, unstable air).",3
+"As a user, I want potential causes of turbulence.(weather, unstable air).",4
+"As a User, I want the 'posted date' included on the list of new/updated data, web services, or web/mobile/desktop applications.",2
+"As a User, I want the 'posted date' included on the list of new/updated data, web services, or web/mobile/desktop applications.",4
+"As a user, I want to be able to keep my data private on the system, and only share data that I deem should be shared.",2
+"As a user, I want to be able to view and update an inventory of of the equipment and consumables that are present in the centre.",2
+"As a user, I want to be able to view and update an inventory of of the equipment and consumables that are present in the centre.",3
+"As a user, I want to be alerted  to upcoming potential  turbulence before it occurs (can be crowdsourced based on previous data).",3
+"As a User, I want to be notified whenever new or updated data, web services, or web/mobile/desktop applications are released.",2
+"As a User, I want to control layer rendering (symbology) for VT GIS data layers accessed via a web map service.",3
+"As a User, I want to control when and what I get notified about.",2
+"As a User, I want to download aerial photos (eg: VT orthos) so I can use them on my computer.",3
+"As a User, I want to download aerial photos (eg: VT orthos) so I can use them on my computer.",3
+"As a User, I want to download aerial photos (eg: VT orthos) so I can use them on my computer.",4
+"As a User, I want to download data in non-GIS formats (eg: CSV, GeoJsoN).",3
+"As a User, I want to download data in non-GIS formats (eg: CSV, GeoJsoN).",3
+"As a User, I want to download thematic data in bulk (eg: all transportation data).",3
+"As a User, I want to download thematic data in bulk (eg: all transportation data).",3
+"As a User, I want to download VT GIS data layers and imagery (aerial photos) only for a particular area that I specify (eg: clip &. . .",2
+"As a User, I want to download VT GIS data layers and imagery (aerial photos) only for a particular area that I specify (eg: clip &. . .",3
+"As a User, I want to download VT GIS data layers and imagery (aerial photos) only for a particular area that I specify (eg: clip &. . .",3
+"As a User, I want to find and download Regional-level (RPC) GIS data.",2
+"As a User, I want to find and download Regional-level (RPC) GIS data.",3
+"As a User, I want to find and download town-level GIS data.",2
+"As a user, I want to find flights by airline (by current/upcoming flights).",2
+"As a user, I want to find flights by airline (by current/upcoming flights).",3
+"As a User, I want to find the latest GIS data releases by agency, by department, by program (eg:. . .",3
+"As a User, I want to flag errors in the data and have them submitted to the data steward.",2
+"As a User, I want to get to all Warehouse entries that have one or more 'custom keyword tags' assigned by the Publisher.",2
+"As a User, I want to have access to Data Warehouse 'capabilities' via a published API (eg: REST endpoint) so I can integrate it. . . ",4
+"As a User, I want to have access to Data Warehouse 'capabilities' via a published API (eg: REST endpoint) so I can integrate it. . . ",3
+"As a User, I want to have access to Data Warehouse 'capabilities' via a published API (eg: REST endpoint) so I can integrate it. . . ",3
+"As a User, I want to integrate aerial photos (eg: VT orthos) into my own web mashups.",3
+"As a User, I want to integrate aerial photos (eg: VT orthos) into my own web mashups.",3
+"As a user, I want to know about sounds and bumps related to landing.",2
+"As a user, I want to know when we are about to land, and obtain expectations in terms of altitude and related noises.",2
+"As a User, I want to personalize the site (eg: My Warehouse) for the topics and data that I use most often.",2
+"As a User, I want to personalize the site (eg: My Warehouse) for the topics and data that I use most often.",3
+"As a User, I want to personalize the site (eg: My Warehouse) for the topics and data that I use most often.",3
+"As a User, I want to post comments about a particular dataset, web service, or application and have those comments show up. . . ",2
+"As a User, I want to post comments about a particular dataset, web service, or application and have those comments show up. . . ",3
+"As a User, I want to rank (eg: number of stars) datasets, web services, and web applications.",3
+"As a User, I want to rank (eg: number of stars) datasets, web services, and web applications.",3
+"As a User, I want to search by standard data themes (eg: boundary data, transportation data, etc.) using Iso 19115 Topic. . . ",3
+"As a User, I want to search by standard data themes (eg: boundary data, transportation data, etc.) using Iso 19115 Topic. . . ",3
+"As a User, I want to see a list of all data, web services, and applications associated with a particular dataset.",2
+"As a User, I want to see a listing of all available data even if it isn't available for immediate download or if there are access. . . ",2
+"As a User, I want to see a listing of all available data even if it isn't available for immediate download or if there are access. . . ",3
+"As a User, I want to see rankings of datasets, web services, and web applications to help me pick the 'best' option.",2
+"As a User, I want to specify data types (eg: polygon, points, lines, raster) in searches.",3
+"As a User, I want to specify data types (eg: polygon, points, lines, raster) in searches.",3
+"As a User, I want web services providing access to aerial photos that render 'Google' fast.",4
+"As a User, I want web services that work with ArcGIS software (desktop, mobile, and browser-based clients).",4
+"As a User, I want web services that work with ArcGIS software (desktop, mobile, and browser-based clients).",3
+"As a User, I want web services that work with Open source GIS software (desktop, mobile, and browser-based clients).",3
+"As a User, I want web services that work with Open source GIS software (desktop, mobile, and browser-based clients).",4
+"As a user, I would like to be able to VIEW the group's shared calendars via the Neurohub Nodes' Web page as well as on my mobile device.",4
+"As a user, when I hear a strange noise, I want to be able to look up what it might be, and get information.",2
+"As a user, when moving a file to a new location, I need to be sure that existing metadata corresponding to the file is not lost.",4
+"As a user, when the plane drops in altitude, I want to know what happened, what the pilot is trying to do, and obtain general information on it.",2
+As a Visitor I am able to use the contact form so that I can contact the administrator.,4
+As a Visitor I can register myself with the site so that I'm able to contribute.,4
+As a Visitor I'm able to click on a person's profile card so that I can open their profile page.,4
+As a Visitor I'm able to close the selected profile so that I can return to the search results or homepage.,4
+As a Visitor I'm able to continue to the ABC experience homepage.,4
+As a Visitor I'm able to navigate back to the media categories.,4
+As a Visitor I'm able to navigate the site through site wide navigation menus so that I can always quickly open the page I'm looking for.,4
+As a Visitor I'm able to navigate the site through the site wide footer menu so that I can always quickly open the page I'm looking for.,4
+As a Visitor I'm able to navigate the site through the site wide top menu so that I can always quickly open the page I'm looking for.,4
+As a Visitor I'm able to navigate through the album so that I can view all media elements.,4
+As a Visitor I'm able to navigate to the next and previous profile so that I can easily scan through the search results.,4
+As a Visitor I'm able to open a larger view of the map so that I can better understand where the person is positioned.,4
+As a Visitor I'm able to open the interactive map from the person's profile page so that I know the location of the person's event plot.,4
+As a Visitor I'm able to order the search results so that I can more easily review the results.,4
+As a Visitor I'm able to review key information of all found people so that I have an indication of the person's details.,4
+As a Visitor I'm able to search for people in the ABC database so that I can review the profiles of the positioned people.,4
+As a Visitor I'm able to search for people in the ABC database.,4
+As a Visitor I'm able to see a list of events so that I can stay up to date on ABC-related events.,4
+As a Visitor I'm able to see a list of news items so that I can stay up to date on ABC news.,4
+As a Visitor I'm able to see a map of the event plot so that I know where the person has been positioned.,4
+As a Visitor I'm able to see an overview of available albums within the select category so that I can select a particular album.,4
+As a Visitor I'm able to see an overview of available categories so that I can select a particular category.,4
+As a Visitor I'm able to see who (display name) added the content and when so that I know more about the contributor of the content.,3
+As a Visitor I'm able to see who (display name) added the content and when so that I know more about the contributor of the content.,4
+As a Visitor I'm able to select a album so that I can view the media in the album.,4
+As a Visitor I'm able to view textual information on the selected media element.,4
+As a Visitor I'm able to view the ABC experience homepage so that I can learn about the Event Region.,4
+As a Visitor I'm able to view the ABC introduction so that I get engaged.,4
+As a Visitor I'm able to view the added stories (if any) on the profile page so that I can learn more about the person.,3
+As a Visitor I'm able to view the added stories (if any) on the profile page so that I can learn more about the person.,4
+As a Visitor I'm able to view the general information of a person so that I can learn more about an individual's event on Event Region.,4
+As a Visitor I'm able to view the media gallery so that I can see interesting photo's about the Event Region.,4
+As a Visitor I'm able to view the profile of a particular person so that I can identify that person and add additional content to their profile.,4
+"As a visitor, I can download presentations, PDFs, etc. on Scrum that I can use.",3
+"As a visitor, I can download presentations, PDFs, etc. on Scrum that I can use.",6
+"As a visitor, I can download presentations, PDFs, etc. on Scrum that I can use.",4
+As Admin I'm able to import Event Records.,4
+"As an (Application Adminstrator | Repository Manager), I want to assign Users to an Advanced Data Entry and ensure that the appropriate permissions are enforced.",2
+"As an (Application Adminstrator | Repository Manager), I want to assign Users to an Advanced Data Entry and ensure that the appropriate permissions are enforced.",3
+"As an academic publisher, I want to Make persistent web links between my articles and underlying datasets so that My journals can be seen to be filled with robust, high-quality research.",2
+"As an admin user, I would like to have granular access to all external metadata about the object, e.g. HOLLIS metadata, annotation metadata.",3
+"As an admin user, I would like to have granular access to all external metadata about the object, e.g. HOLLIS metadata, annotation metadata.",4
+As an Administrator I can edit the details of a User.,4
+As an Administrator I'm able to add a new album.,4
+As an Administrator I'm able to add a new event so that its shown in the list of events.,4
+As an Administrator I'm able to add a new news item so that its shown in the overview of news items.,4
+As an Administrator I'm able to add a new person to the ABC database.,4
+As an Administrator I'm able to add new media elements to the select gallery.,4
+As an Administrator I'm able to ban a particular User so that he/she has no longer access to the site with the provided email address.,4
+As an Administrator I'm able to completely remove a User from the site so that the account is no longer available.,4
+As an Administrator I'm able to delete an existing album so that its removed from the media gallery.,4
+As an Administrator I'm able to delete an existing event so that its removed from the overview.,4
+As an Administrator I'm able to delete an existing news item so that its removed from the overview.,4
+As an Administrator I'm able to delete an existing person in the event of relocation.,4
+As an Administrator I'm able to delete content (which a user added) from a person's profile page.,3
+As an Administrator I'm able to delete content (which a user added) from a person's profile page.,4
+As an Administrator I'm able to edit an existing event so that I can update the contents.,4
+As an Administrator I'm able to edit an existing news item so that I can update the contents.,4
+As an Administrator I'm able to edit an existing person so that I can correct any mistakes.,4
+As an Administrator I'm able to edit existing media elements of a particular gallery so that I can update the content.,4
+As an Administrator I'm able to edit the information of an existing album so that I can update it.,4
+As an Administrator I'm able to manage people so that I can add edit or delete profiles.,4
+As an Administrator I'm able to manage the list of events so that I can keep the events section up to date.,4
+As an Administrator I'm able to manage the list of news items so that I can keep the news section up to date.,4
+As an Administrator I'm able to manage the media gallery so that I can add or remove content.,4
+As an Administrator I'm able to manage Users.,4
+As an Administrator I'm able to remove existing media elements of a particular gallery so that I can keep the album up to date.,4
+As an Administrator I'm able to search through the list of Users so that I can more easily find a particular User.,4
+As an Administrator I'm able to see a list of active Users registered with the site so that I can manage the Users.,4
+As an agency I want to be able to link the complaint to the license if the violation is proven so I can look up violations against licenses.,4
+"As an Archivist I want to specify the source for a Name Form of an Agent, add new sources, and edit existing sources.",2
+"As an Archivist, I don't want to inadvertently overwrite someone else's changes to a record that I'm editing.",4
+"As an Archivist, I want to add administrative data about the archival description and finding aid-related data to a top-level Resource.",2
+"As an archivist, I want to add Notes to other record types (besides resources).",3
+"As an Archivist, I want to assign a component unique identifier to a Resource Component (e.g. for a series title).",3
+"As an Archivist, I want to assign a component unique identifier to a Resource Component (e.g. for a series title).",3
+"As an Archivist, I want to assign a Level (of description) to a Resource or Resource Component, and optionally specify another value if the Level is not in a predefined list.",2
+"As an Archivist, I want to assign a Level (of description) to a Resource or Resource Component, and optionally specify another value if the Level is not in a predefined list.",3
+"As an Archivist, I want to associate an Instance with a (resource | resource component).",3
+"As an Archivist, I want to be able to understand that an error occurred during import and why it might have occurred.",2
+"As an archivist, I want to create and edit a Collection Management subrecord (minimal implementation).",2
+"As an archivist, I want to create and edit a Collection Management subrecord (minimal implementation).",3
+"As an Archivist, I want to create and edit a Resource record.",2
+"As an Archivist, I want to create and edit a Resource record.",3
+"As an archivist, I want to create and edit Agent records.",2
+"As an Archivist, I want to create and edit Event records.",2
+"As an Archivist, I want to create and edit Rights Management statements.",2
+"As an Archivist, I want to manage Digital Objects (minimal implementation).",3
+"As an archivist, I want to rearrange the (resource | digital object) hierarchy using keyboard-based navigation.",3
+"As an Archivist, I want to see Dates and Extents displayed in both the read and edit views for (Accessions | Resources) before the list of Subjects.",2
+"As an Archivist, I want to see Dates and Extents displayed in both the read and edit views for (Accessions | Resources) before the list of Subjects.",3
+"As an Archivist, I would like to indicate an Agent is either the (creator | source | subject) of an (Accession | Resource | Resource Component).",3
+"As an Archivist, I would like to indicate an Agent is either the (creator | source | subject) of an (Accession | Resource | Resource Component).",4
+As an editor I need time zone support for setting publication and expiration dates for my content so I know what time a content item goes 'live' in my time zone.,3
+As an editor I need time zone support for setting publication and expiration dates for my content so I know what time a content item goes 'live' in my time zone.,4
+As an editor I want to access content items quickly from a content element so I do not have to look up these content types in the menu and therefore I can work more productive.,6
+As an editor I want to access content items quickly from a content element so I do not have to look up these content types in the menu and therefore I can work more productive.,4
+As an editor I want to assign page sections to pages using the current page section structure so I can easily and efficiently manage page sections assigned to pages.,4
+As an editor I want to crop images so I can edit images easily without using photo editing tools and therefore I can work more productive.,6
+As an editor I want to crop images so I can edit images easily without using photo editing tools and therefore I can work more productive.,4
+As an editor I want to search on media item titles and terms in the Media Repository in an case insensitive way so the number of media item results are increased and I find relevant media items more efficiently.,4
+As an editor I want to set a content language so I see SiteManager in my personal language without having to change content language each time after login.,4
+As an editor I want to set a default editor environment language so I can easily login in the preffered language without changing languages each time I login.,4
+"As an editor I want to show media items from another web initiative using thesaurus relationships of that web initiative on my website so I do not have to reconstruct the thesaurus of the other web initiative for my own website which saves time since its duplication. ",4
+As an editor I want to translate media items to multiple languages so I can produce content in different language easily.,4
+As an international student I want it to be easier to make payments (e.g. not have to convert currency or pay extra wire transfer fees due to frequent bill adjustments).,4
+As an international student I would like to see financial information that is relevant to me (e.g. do not show financial aid info).,4
+As an international student she would like UC Berkeley systems to handle her address and not make her re-enter it every time.,4
+As an investigator I can view the acceptance test results so that I can understand how feature-complete the Neurohub node currently is.,4
+As an IT manager I want IPv6 support by CMS SiteManager so I'm ensured that CMS SiteManager will work fine once IPv6 is applied into our hosting/network environment.,4
+As an MRI operator I can digitally record the responses that subjects make when completing paper-based forms.,4
+As an system administrator I want to monitor the performance of CMS SiteManager so I can analyze indicators which influence the health of CMS SiteManager and undertake action upon this analysis in order to make CMS SiteManager healthy again.,2
+As an system administrator I want to monitor the performance of CMS SiteManager so I can analyze indicators which influence the health of CMS SiteManager and undertake action upon this analysis in order to make CMS SiteManager healthy again.,6
+As an system administrator I want to monitor the performance of CMS SiteManager so I can analyze indicators which influence the health of CMS SiteManager and undertake action upon this analysis in order to make CMS SiteManager healthy again.,4
+As as a CQWL user I need configurable postage rates so that each white label can have accurate piece pricing.,4
+As Collection Manager or Sponsor I want to describe the collection.,2
+"As lab administrator(s) I should have increased access to the system to support regular users. See solution research"" for further information. "".",4
+"As lab administrator(s) I should have increased access to the system to support regular users. See solution research"" for further information. "".",3
+"As lab administrator(s) I should have increased access to the system to support regular users. See solution research"" for further information. "".",3
+"As someone about to become a trainer, I can pay an annual fee.",4
+"As someone who has posted an ad that is about to expire, seven days before it expires I want to be emailed a reminder so that I can go extend the ad. (Note: This means the ad could have an expiration date 37 days into the future, which is fine.).",3
+"As someone who has posted an ad that is about to expire, seven days before it expires I want to be emailed a reminder so that I can go extend the ad. (Note: This means the ad could have an expiration date 37 days into the future, which is fine.).",3
+"As someone who successfully completed a Certification Course (becoming a Certified ScrumMaster or Certified Product Owner), I am emailed a link to a survey about the course and instructor.",4
+"As someone who wants to hire, I can post a “help wanted ad”.",4
+"As someone who wants to hire, I want to be able to extend an ad for another 30 days (repeatedly) by visiting the site and updating the posting. (Note, I can’t update it 10 times today and extend the posting 300 days today.).",2
+"As someone who wants to hire, I want to be able to extend an ad for another 30 days (repeatedly) by visiting the site and updating the posting. (Note, I can’t update it 10 times today and extend the posting 300 days today.).",3
+"As someone who wants to hire, I want to be able to extend an ad for another 30 days (repeatedly) by visiting the site and updating the posting. (Note, I can’t update it 10 times today and extend the posting 300 days today.).",3
+"As someone whose membership (of any type) is about to expire, I am sent a reminder and a link through which I can renew. (Note: Think about overlapping memberships and prorating.).",2
+"As someone whose membership (of any type) is about to expire, I am sent a reminder and a link through which I can renew. (Note: Think about overlapping memberships and prorating.).",3
+"As someone whose membership (of any type) is about to expire, I am sent a reminder and a link through which I can renew. (Note: Think about overlapping memberships and prorating.).",3
+"As someone whose membership (of any type) is about to expire, I am sent a reminder and a link through which I can renew. (Note: Think about overlapping memberships and prorating.).",4
+As staff I want to be able to communicate back and forth with the complainant and the licensure to get the information I need to process the application.,2
+"As the site editor, I can add an article to the site.",4
+"As the site editor, I can include a teaser with each article. The teaser shows up on the front page for all to read.",3
+"As the site editor, I can include a teaser with each article. The teaser shows up on the front page for all to read.",4
+"As the site editor, I have pretty good control over how the article looks (include images and captions, for example).",3
+"As the site editor, I have pretty good control over how the article looks (include images and captions, for example).",4
+As user BR-PlantViewer I want component that represents pie chart so that it facilitates visualization of data.,4
+"Automatically fill in 'owner' fields when creating new projects, log entries, etc. , based on the currently-logged-in user.",1
+"Automatically fill in 'owner' fields when creating new projects, log entries, etc. , based on the currently-logged-in user.",3
+Backend changes for bulk updating one enum value to another.,1
+Backend changes for managing enum lists.,1
+Backend changes to support loading enum value lists from the database.,1
+Bar code Ids for each  tape are entered  and  video information from inventory is displayed.,1
+"Check RO routes against original, expanded Input Routes.",1
+copying it I am asked for the date(s) of the new course or event.,3
+"Create an admin guide that describes administrative tasks to deploy system, add users, and configure third party tools.",1
+"Create an admin guide that describes administrative tasks to deploy system, add users, and configure third party tools.",2
+Create an interface for the user to validate their query parameters for pub/sub system queries.,1
+Create the development environment for building/testing constraints.,1
+Customers select at least one video for rental.,1
+Derive cruise altitudes by leg length for each of the sy system's aircraft types.,1
+Each  customer gets an   id card from ABC for identification purposes.,1
+"Easily record an email message in ATS. Include details like time, date, to, from, subject, etc. plus the message. --The email is sent from another tool such as [email program].",1
+"Easily record an email message in ATS. Include details like time, date, to, from, subject, etc. plus the message. --The email is sent from another tool such as [email program].",3
+"Faculty shall be able to return books as specified in Req(31) or  shall  be able to send the books by internal mail to the library, upon receipt of which  the library staff shall  enter the book as returned.",1
+"Faculty shall be able to return books as specified in Req(31) or  shall  be able to send the books by internal mail to the library, upon receipt of which  the library staff shall  enter the book as returned.",3
+"Faculty shall be able to use ACMELIS to borrow books without having to visit the library in person. To do this , and respecting the constraints set out in Req(16), Req(17), Req(18) and Req(19), they  shall  enter the loan data in ACMELIS.",1
+"Faculty shall be able to use ACMELIS to borrow books without having to visit the library in person. To do this , and respecting the constraints set out in Req(16), Req(17), Req(18) and Req(19), they  shall  enter the loan data in ACMELIS.",2
+"Faculty shall be able to use ACMELIS to borrow books without having to visit the library in person. To do this , and respecting the constraints set out in Req(16), Req(17), Req(18) and Req(19), they  shall  enter the loan data in ACMELIS.",3
+"Faculty shall be able to use ACMELIS to borrow books without having to visit the library in person. To do this , and respecting the constraints set out in Req(16), Req(17), Req(18) and Req(19), they  shall  enter the loan data in ACMELIS.",3
+Frontend changes for managing enum lists.,1
+How to manage BR-Historian I want to register tags divided in steps To facilitate registration of tags.,4
+"I want to be able to create personal log entries that are viewable only to me.  I would also like to restrict access to log entries to me and my manager; me, my manager, and the company for which the log entry was created; me and my group.  Regardless, only people who can see my projects can see my project's log entries. ",4
+"If a book has not  been reserved , any  user shall be able to borrow it.",1
+"If a book is returned  late, the system shall suspend the user for two days for every day the book is overdue.",1
+"If the loan period expires on a non-working day, the loan shall be considered  to be due on the next working day.",1
+"If the user hasn't done anything with the system for 30 minutes, he is automatically logged out.",1
+Improve the method of detecting climb/descent profile issues.,1
+Integrate the use of segment frequency into the selection process for the RO.,1
+Library staff shall be able to access and  cancel user suspensions.,1
+Library users shall be able to borrow books.,1
+Library users shall have to return the books before the loan period expires.,1
+Log entry summary. User adds a one-line summary when creating a log entry. (This summary would be useful for reporting.).,1
+Log entry summary. User adds a one-line summary when creating a log entry. (This summary would be useful for reporting.).,3
+Log entry summary. User adds a one-line summary when creating a log entry. (This summary would be useful for reporting.).,3
+"Managerial log entry. Manager opens user's log and interjects a comment. Manager comments are highlighted to draw distinction from user logs. Security: User, manager.",5
+"Managerial log entry. Manager opens user's log and interjects a comment. Manager comments are highlighted to draw distinction from user logs. Security: User, manager.",1
+"Managerial log entry. Manager opens user's log and interjects a comment. Manager comments are highlighted to draw distinction from user logs. Security: User, manager.",3
+Migrate existing data to new release.,1
+Money is collected  and  the amount is entered  into the system.,1
+Money is collected  and  the amount is entered  into the system.,2
+Need a method for handling the case where the preview archive is updated needs to be considered.,1
+"News Date, Stop Publishing Date.These dates refer to the date an item becomes visible on the site (perhaps next Monday), the date it stops appearing on the home page, and the date it is removed from the site (which may be never).",2
+"News Date, Stop Publishing Date.These dates refer to the date an item becomes visible on the site (perhaps next Monday), the date it stops appearing on the home page, and the date it is removed from the site (which may be never).",3
+"News Date, Stop Publishing Date.These dates refer to the date an item becomes visible on the site (perhaps next Monday), the date it stops appearing on the home page, and the date it is removed from the site (which may be never).",3
+"Only the reservations of users that  have been  notified of the availability of a particular book shall be cancelled . Once a  reservation has been  cancelled, the next user shall  be notified , as specified in Req(06) and Req(07).",1
+"Only the reservations of users that  have been  notified of the availability of a particular book shall be cancelled . Once a  reservation has been  cancelled, the next user shall  be notified , as specified in Req(06) and Req(07).",3
+"Only the reservations of users that  have been  notified of the availability of a particular book shall be cancelled . Once a  reservation has been  cancelled, the next user shall  be notified , as specified in Req(06) and Req(07).",3
+Order Review and Print.,1
+Other  airplane hacks and  travel tips.,1
+"Provide a box that will display the application name and version number for ATS, as well as tech support contact info.",1
+"Provide a box that will display the application name and version number for ATS, as well as tech support contact info.",2
+"Provide a box that will display the application name and version number for ATS, as well as tech support contact info.",3
+Provide Email Notification with order ID and steps to complete redesign process.,1
+Provide Email Notification with order ID and steps to complete redesign process.,2
+Provide Email Notification.,1
+"Reservations are organized  in chronological order, where the longeststanding  shall take the highest  and  the newest the lowest  priority.",1
+Restrict access to the application. Only allow people who know a user's username and password to access ATS.,1
+Restrict access to the application. Only allow people who know a user's username and password to access ATS.,3
+RO interface should accept temporal buffer for input constraints.,1
+RO should be able to filter by jet or vector airways.,1
+RO should return the complete feature with all attributes.,1
+Sales Rep account creation with venture 1 num.,1
+Sales Rep account creation with venture 1 num.,5
+Staff would like to be able to ensure that all fines/fees have been paid before a case can be closed.,2
+Staff would like to be able to generate a Case report.,1
+Staff would like to be able to generate a hearing report.,1
+Staff would like to create and send a Closure letter.,2
+Staff would like to generate and send a Formal Letter of complaint.,2
+Staff would like to have due dates tracked so that response times can be tracked.,4
+Staff would like to send a notification via email when BPL is assigned the case.,1
+"Students and  administrative and  support staff shall have to return a loan to the library, and  the librarian shall  have to enter the data in ACMELIS.",1
+"Students and  administrative and  support staff shall have to place a request for a loan at the library, and  the librarian shall  have to enter the data in ACMELIS.",1
+Suspended users shall not  be able to borrow books.,1
+System interface should also include a parameter for passing the date/time allowing the user to specify which aeronautical data set to use.,1
+System interface should also include a parameter for passing the date/time allowing the user to specify which aeronautical data set to use.,2
+system should provide an active display of all system and service statuses.,1
+"The customer signs the rental form,  takes the tape(s) and  leaves.",1
+"The customer signs the rental form,  takes the tape(s) and  leaves.",3
+The customer’s account number is entered  to retrieve  customer data and  create an order.,1
+The library staff shall use the list of book loans to search for the books that  have to be sent  to the faculty. The list of labels shall  be used  to send the books to faculty members by internal mail.,1
+The library staff shall use the list of book loans to search for the books that  have to be sent  to the faculty. The list of labels shall  be used  to send the books to faculty members by internal mail.,3
+The loan period shall be 7 days for students and  administrative and  support staff and  15 days for faculty.,1
+The maximal   number of tapes that a customer can have outstanding on rental is 20.,1
+"The rental transaction is created ,  printed  and  stored.",1
+"The rental transaction is created ,  printed  and  stored.",2
+The rental transaction is displayed  and  the tape is marked  with the date of return.,1
+The rental transaction is displayed  and  the tape is marked  with the date of return.,2
+"The reservation shall be valid for any  copy of a particular book. For example , if there are five copies of Don Quixote, any  one of these  copies shall  be considered to be reserved.",1
+"The reservation shall be valid for any  copy of a particular book. For example , if there are five copies of Don Quixote, any  one of these  copies shall  be considered to be reserved.",3
+The RO should filter segments by angle to keep the solutions from doubling back in an unrealistic fashion.,1
+The system generator should validate aircraft types before accepting a flight into the system database.,1
+The system shall allow downloading the contents stored on the server.,1
+"The system shall allow the creation, edition and  deletion of playlists , so that downloaded videos can be included  in certain  playlists. It  will  also  be possible  to change the order of videos in a playlist.",4
+"The system shall allow the edition of the characteristics of a newly  uploaded content, that  is, you can  modify the title, description, tags, activation date and  expiration.",1
+The system shall allow the preview of playlists.,1
+The system shall allow the recording and  management of users who   can access the application  via a login and  different  levels of privileges.   Access will  be  through e-mail address and password.,1
+The system shall allow the recording and  management of users who   can access the application  via a login and  different  levels of privileges.   Access will  be  through e-mail address and password.,3
+The system shall allow the removal of material.   Content will  be removed   from both   notice boards’ disks and  the application server’s disk.,1
+The system shall allow the removal of material.   Content will  be removed   from both   notice boards’ disks and  the application server’s disk.,3
+"The system shall allow the upload of new content.   The contents may  be  images, videos and  Flash animations .   Uploaded  new  content must  be associated  with a title, description, some  tags, duration, date of activation and expiration date.",1
+"The system shall allow the upload of new content.   The contents may  be  images, videos and  Flash animations .   Uploaded  new  content must  be associated  with a title, description, some  tags, duration, date of activation and expiration date.",3
+The system shall display a list sorted  by date (ascending or  descending) of the last ten uploaded  contents. It  will  also  show the rest of the contents if they  exceed ten.,1
+The system shall display a list sorted  by date (ascending or  descending) of the last ten uploaded  contents. It  will  also  show the rest of the contents if they  exceed ten.,3
+The system shall display a list sorted  by date (ascending or  descending) of the last ten uploaded  contents. It  will  also  show the rest of the contents if they  exceed ten.,3
+"The system shall manage the state of playlists.   A playlist can  be ""online"" or ""offline.  "" Online playlists are sent  to monitors to display videos.   Offline playlists contain videos that are stored  on the system but not  displayed  on the panels.",1
+"The system shall manage the state of playlists.   A playlist can  be ""online"" or ""offline.  "" Online playlists are sent  to monitors to display videos.   Offline playlists contain videos that are stored  on the system but not  displayed  on the panels.",3
+"The system shall report the disk capacity used and  left, both   in the panel’s disks and  the application server’s disk.",1
+"The system shall reveal the status of each panel, ie : if it  is running, online, or if for any  reason it  is down or  unreachable. It  also  will  show whether the panels have correctly  received the contents that  have been sent  to them.",1
+"The system shall reveal the status of each panel, ie : if it  is running, online, or if for any  reason it  is down or  unreachable. It  also  will  show whether the panels have correctly  received the contents that  have been sent  to them.",2
+"The system shall reveal the status of each panel, ie : if it  is running, online, or if for any  reason it  is down or  unreachable. It  also  will  show whether the panels have correctly  received the contents that  have been sent  to them.",3
+"The system shall turn the panels on and  off (one in particular, or all  at once)  through the web.",1
+"The system shall turn the panels on and  off (one in particular, or all  at once)  through the web.",3
+The video inventory file is updated.,1
+This  id card has a  bar code that  can be read  with the  bar code reader.,1
+Update the system import to ensure there is always input data available in the db.,1
+"User A leaves the office for a short time (vacation, etc.) and assigns his access privileges to user B so B can take care of A's work while A is gone.",4
+User assigns action item to a specific individual other than himself.,1
+User browses action items by responsibility and completed or not. (Possibly other filters -- check).,5
+User browses action items by responsibility and completed or not. (Possibly other filters -- check).,1
+User browses action items by responsibility and completed or not. (Possibly other filters -- check).,3
+User browses action items by responsibility and completed or not. (Possibly other filters -- check).,3
+User defines a default project type and its actions.,1
+User sets an action item's priority.,1
+Users shall be able to cancel their  reservations.,1
+"Users shall be able to consult their loans, as well  as the return date.",1
+Users shall be able to consult their  reservations.,1
+"Users shall be able to extend the validity period of their  reservations.   If the validity period of a reservation is extended , this   reservation becomes the newest  of all  the reservations.",1
+"Users shall be able to extend the validity period of their  reservations.   If the validity period of a reservation is extended , this   reservation becomes the newest  of all  the reservations.",3
+"Users shall be able to reserve books, irrespective of whether or not the requested book is on loan.",1
+"Users shall be able to reserve books, irrespective of whether or not the requested book is on loan.",2
+"Users shall be notified  by e-mail when a  reserved book becomes available. Only the user with the oldest reservation shall  be notified , save as stated in Req(12).",1
+"Users shall be notified  by e-mail when a  reserved book becomes available. Only the user with the oldest reservation shall  be notified , save as stated in Req(12).",3
+"Users shall be notified  by e-mail when a  reserved book becomes available. Only the user with the oldest reservation shall  be notified , save as stated in Req(12).",3
+Users shall not  be able to borrow reference works.,1
+Users shall not  be able to reserve reference works.,1
+"When a user creates a project, he selects a project ""type"" or template that creates a default set of action items for the project.",1
+"When a user creates a project, he selects a project ""type"" or template that creates a default set of action items for the project.",2
+When the RO needs a threshold when associating origin/destination positions.,1
+As a Metadata Librarian I want to define the metadata schema for a collection.,0
+"As a bath data archive administrator, I want to Approve scheduled disposal of data so that Data which is still required is not destroyed.",0
+"As a bath data archive administrator, I want to Import Bath data from an external data centre wholesale so that Bath data holdings in external archives are not lost if they close down.",0
+"As a bath data archive administrator, I want to Make some checks on deposited datasets before they are made public so that Consistent quality of metadata is maintained, Compliance with policies can be checked, and Details of licensing can be checked.",0
+"As a bath data archive administrator, I want to Require a minimum set of metadata so that Consistent quality of metadata is maintained.",0
+As a BR-Historian manager I want to register tags organized in tabs To facilitate registration of tags.,0
+As a BR-Historian manager I want to view backup files To validate generation of backups.,0
+As a business decision-maker I want to use French as native language for CMS SiteManager so that native french-speaking editors adopt CMS SiteManager easily and as a result gain a better understanding of the application.,0
+As a cataloger I want to be able to save a record without all of the required metadata so that I can start a record with the metadata I have and come back to finish it later.,0
+As a citizen I want to be able to submit a complaint against a licensure so that the state can investigate it.,0
+As a clerk I want to be able to forward part of the complaint to another local code enforcement agency at the same time continue with the part of the complaint pertaining to BCC.,0
+As a clerk I want to be able to revoke a license so that the owner may never use it again.,0
+As a clerk I want to be able to suspend a license so that the license owner cannot continue work.,0
+As a collection manager I want to be able to create controlled vocabularies so that they can be used as authority lists during metadata creation.,0
+As a collections manager I want to be able to repeat repeatable DC Fields so that I can enter all of the relevant metadata.,0
+As a complainant I want to be able to attach documents to my case to support my claims.,0
+"As a data discovery service, I want to harvest metadata so that our users can discover and download original content.",0
+"As a data re-user, I want to Access the system in my native language so that I am not put off re-using University of Bath data by language barriers.",0
+"As a data re-user, I want to Get a persistent URL for a dataset so that I can get back to the data in future.",0
+"As a data re-user, I want to Search the archive through the web so that I can easily find data relevant to my needs.",0
+"As a data re-user, I want to View an example citation for a dataset so that I can reference it correctly.",0
+"As a depositor, I want to Allow my collaborators privileged access to datasets so that We continue to have a productive relationship.",0
+"As a depositor, I want to Allow others to deposit on my behalf so that I can delegate research data management tasks appropriately.",0
+"As a depositor, I want to Deposit the files that I have so that I don’t have to spend a lot of time finding the right version and converting to the right format.",0
+"As a depositor, I want to Link datasets to publications in Opus so that Both my data and publications are more easily discovered.",0
+"As a depositor, I want to Link to data stored in external repositories so that I can store my data in an appropriate repository but still register it with the University and I don’t have to deposit my data in multiple places.",0
+"As a depositor, I want to Manage multiple versions of the same dataset so that Changes to the dataset are transparent and do not compromise research integrity.",0
+"As a depositor, I want to Mint DOIs for my data so that It can be discovered and cited more easily.",0
+"As a depositor, I want to Specify a retention/disposal policy for my data so that I do not accidentally breach laws or collaboration agreements.",0
+"As a depositor, I want to Track citations of my data so that I can demonstrate the impact of my work.",0
+"As a depositor, I want to Track downloads of my data so that I can demonstrate the impact of my work.",0
+As a Developer I want to develop a custom importer.,0
+As a developer I want to pass on variables to flash files directly.,0
+As a DPD I want to capture digitization statistics so that I can monitor Operator efficiency and make projections for future projects.,0
+As a DPD I want to verify the correctness and completeness of components so that I can ensure quality standards are met.,0
+As a DPU I want to add one or more Components to an Item.,0
+As a DPU I want to check-out/check-in groups of Components.,0
+As a DPU I want to create Preservation Metadata for a Component.,0
+As a DPU I want to create Technical Metadata with for Component.,0
+As a DPU I want to upload master surrogates to a Component.,0
+"As a junior researcher, I want to be able to harvest knowledge from within the group, so that I can learn from more experienced researchers.",0
+As a lab member I want to be able to view events and equipment bookings within the group.,0
+As a marketeer I want to switch URLs when URL duplication occurs between pages so that I can solve conflicts between pages easily without having to search all pages in the tree.,0
+As a marketeer I want to view basic analytics data of media items easily so that I can analyze whether content is relevant to the intended audience.,0
+As a Metadata librarian I want to define Authorities to be used for specific fields in a collection MD Schema.,0
+As a Metadata Librarian I want to define validation rules for specific fields in a collection.,0
+As a Read Only user I want to view archival descriptions in my repository.,0
+"As a research facility manager, I want to Deposit data from my facility directly into the archive on behalf of researchers so that I am no longer required to maintain my own archive of facility data and Researchers can access their own data as needed.",0
+"As a research information manager, I want to Have datasets linked to metadata about projects so that I can report on projects depositing datasets in relation to funder requirements.",0
+"As a research information manager, I want to Include records for externally-held data so that the university’s record of data holdings is complete.",0
+"As a research information manager, I want to Track citation counts for published datasets so that Impact of datasets within academia can be demonstrated.",0
+"As a researcher, I want to be able to attach standard meta data for drug responses, so that my data can later be searched for and understood.",0
+"As a researcher, I want to be able to bulk upload directories and files with minimal effort.",0
+"As a researcher, I want to be able to form links between objects, for example File A is an analysis of File B, so that data can be searched by type and by association.",0
+"As a researcher, I want to be able to view a finding aid for a particular collection/Resource.",0
+"As a researcher, I want to tag data with keywords, as well as assign formal meta data, so that I or other researchers can successfully search for data using keywords.",0
+"As a site editor, I want to be able to indicate whether an article is publicly available or for members only.",0
+"As a site member, I want to have full access to all articles.",0
+"As a site visitor, I want to be able to get back to the home page quickly and easily.",0
+"As a site visitor, I want to be able to read some of your articles.",0
+"As a site visitor, I want to read a new article on the front page about once a week.",0
+"As a site visitor, I want to see new content when I come to the site.",0
+As a student I want to be able to filter my email so that I can manage it more easily.,0
+As a student I want to be able to find important emails even when I'm offline.,0
+As a student I want to be able to keep track of which emails are important to come back to.,0
+"As a student I want to be able to share information about important dates, deadlines & events with my friends.",0
+"As a student I want to be informed about campus events that are of interest to me, so that I don't miss important ones.",0
+As a student I want to be informed of academic calendar deadlines.,0
+"As a student I want to connect with people who have similar interests, possibly by sharing my interests.",0
+As a student I want to connect with students who have the same major or same interests as me.,0
+As a student I want to ensure I don't overlook important emails.,0
+As a student I want to feel connected to the campus.,0
+As a student I want to find volunteer opportunities so that I can create community & connection.,0
+"As a student I want to have accurate, clear presentation of waitlist and enrollment data.",0
+As a student I want to make sure I don't miss any deadlines.,0
+"As a student I want to one place to easily find clubs that are relevant to my interests, academic pursuits and career goals.",0
+As a student I want to pay my bills with a credit card.,0
+As a student I want to receive notification of grades when they are posted so that I can be totally on top of my progress.,0
+As a student I want to share my interests so that student organizations can find me based on my interests.,0
+As a student I want to synch my iCal with the Google calendar on my phone so that my calendar is always with me.,0
+"As a student, I want to be able to add a tasks on the dashboard so that I can be as efficient as possible both in task-entering and managing my time.",0
+"As a student, I want to be able to customize features and content, so that I can see only what is relevant or meaningful to me.",0
+"As a student, I want to be able to easily find my class locations, and my way around campus so that I can get where I need to be on time.",0
+"As a student, I want to be able to see photos of my current GSIs and instructors.",0
+"As a student, I want to be planning my schedule all semester.",0
+"As a student, I want to have accurate information about required, breadth & major requirements, so that I can effectively planning my academic career.",0
+"As a student, I want to manage my mealpoints on so that I know I have enough available.",0
+"As a student, I want to see scholarship information that is relevant to my status, so that I can maximize those opportunities.",0
+As a system administrator I want to deploy filters run-time so that I can roll-out filter dependent functionality efficiently througout DTAP.,0
+As a User I want to authenticate using LDAP.,0
+As a user I want to be able to associate together files involved in a experiment.,0
+As a user I want to be able to download multiple files from the search results in one go.,0
+As a user I want to be able to draw tables using HTML tags as part of the content of a log book page.,0
+As a user I want to be able to link together experimental runs to build an experiment.,0
+As a user I want to be able to make predicated links between files.,0
+As a user I want to be able to prove definitively that I created a page on a certain date.,0
+"As a user I want to be able to publish records only when the record has a Title, Identifier, Type, and source.",0
+As a user I want to be able to revert to an older version of an uploaded file.,0
+As a user I want to be able to save a record only when the record has an identifier so that we don't end up with a bunch of empty records in the collection.,0
+As a user I want to be able to view how an experimental protocol has evolved over time.,0
+As a user I want to capture the same metadata for each file created in an experimental run.,0
+As a user I want to either keep a log book entry private or share it with individuals rather than groups.,0
+As a user I want to make uploaded data files to be non-modifiable.,0
+As a user I want to measure the current amount of turbulence.,0
+As a User I want to monitor the progress of a digital collection project.,0
+As a user I want to restrict what can be entered to a metadata field.,0
+As a user I want to search specifically for files rather than log book pages.,0
+As a user I want to see a graph of the last 2 hours of turbulence.,0
+As a user I want to see how many digitized Items have been described.,0
+As a user I want to see how many Items have been digitized.,0
+As a user I want to see how many Items have been published.,0
+"As a user working on proposals, I want to have a spreadsheet hosted within the Neurohub Web page so that I can edit and calculate costs collaboratively with others working on the proposal.",0
+"As a User, I want to authenticate locally.",0
+"As a user, I want to be able to change the sharing and ownership of multiple files.",0
+"As a user, I want to be able to know for sure when the plane is turning and why.",0
+"As a User, I want to download all data as pre-packaged files via FTP.",0
+"As a User, I want to download VT GIS data layers in ESRI file geodatabase format.",0
+"As a User, I want to download VT GIS data layers in ESRI shapefile format.",0
+"As a User, I want to download VT GIS data layers in GML format.",0
+"As a User, I want to download VT GIS data layers in KML format.",0
+"As a User, I want to explore Warehouse entries by the 'custom data groupings' created by the Publisher.",0
+"As a User, I want to integrate VT GIS data layers into my own web mashups.",0
+"As a user, I want to know flight weather conditions for my journey.",0
+"As a user, I want to know how long I have been in the air.",0
+"As a user, I want to know how much longer I will be in the air.",0
+"As a user, I want to know how to fix pressure in my ears when I'm flying.",0
+"As a user, I want to know my ETA.",0
+"As a user, I want to know potential causes of turbulence, and likely ones.",0
+"As a user, I want to know the plane of both locations.",0
+"As a user, I want to know the terminal / gate.",0
+"As a user, I want to know the weather at any given airport.",0
+"As a user, I want to know the weather of both locations.",0
+"As a user, I want to know when we are about to land.",0
+"As a user, I want to know where in the world I am at the moment.",0
+"As a user, I want to look at my flight's turbulence record prior to and during a flight.",0
+"As a user, I want to look at my pilot's turbulence record prior to and during a flight.",0
+"As a user, I want to look through a library of sounds.",0
+"As a user, I want to look up flight names.",0
+"As a User, I want to post my 'data wish list' to a website for others to see, rank, and comment on.",0
+"As a user, I want to preview sounds.",0
+"As a user, I want to read about what the sound could be caused by.",0
+"As a user, I want to search by airline/flight number.",0
+"As a user, I want to search by route.",0
+"As a user, I want to see an explanation of why the plane is in the direction it's going in.",0
+"As a user, I want to see elapsed time.",0
+"As a user, I want to see my departure location and my arrival location.",0
+"As a user, I want to see the current amount of turbulence.",0
+"As a user, I want to see the direction of the plane's journey.",0
+"As a user, I want to see the flight number.",0
+"As a user, I want to see the temperatures of both locations.",0
+As admin I want to control access to the tags so that limiting access to a group of tags.,0
+As admin I want to organize area hierarchy so that it is easy to create process area architecture.,0
+"As an Administrator, I want to create a new User account for someone else.",0
+"As an airline, I want to compare my flight record with other airlines' on the same  route.",0
+"As an airline, I want to gather turbulence data from actual customers/passengers.",0
+As an Application Administrator I want to be able to configure the help center URL and topic mappings.,0
+"As an Application Administrator, I want to be able to reset a User's password for them.",0
+As an Archivist I want to import EAD data.,0
+"As an Archivist, I want to assign Location information to a Container.",0
+"As an Archivist, I want to associate a standard identifier string with a Subject heading.",0
+"As an Archivist, I want to associate a Subject record with a Resource description.",0
+"As an Archivist, I want to associate an Instance with a Container.",0
+"As an Archivist, I want to export a description as EAD.",0
+"As an Archivist, I want to export agent records as EAC-CPF.",0
+"As an Archivist, I want to import Accessions data in CSV.",0
+"As an Archivist, I want to import Agent information from EAC-CPF records.",0
+"As an Archivist, I want to import EAD files that were exported by Archon.",0
+"As an Archivist, I want to import EAD files that were exported by the Archivists' Toolkit.",0
+"As an Archivist, I want to import only Agent and Subject information from MARCXML records.",0
+"As an Archivist, I want to import Resources from MARCXML records.",0
+"As an archivist, I want to rearrange the resource description hierarchy by dragging an archival object to a different position in the hierarchy.",0
+"As an archivist, I want to search within a repository for resource, accession, and digital object records.",0
+"As an archivist, I want to upload an EAD for import from within the frontend application.",0
+"As an Authenticated User of the application, I want to get access to links to contextual help.",0
+As an editor I want to maintain FAQs in multiple languages easily and in an intuitive way so that I can work productively.,0
+As an editor I want to maintain language labels for different site parts by categories so that I can search and maintain language labels easily.,0
+As an editor I want to maintain media items in multiple languages easily and in an intuitive way so that I can work productively.,0
+As an editor I want to search full-text on content in the editor environment so that I can find relevant content faster and therefore work more productive.,0
+As an end user I want to be able to search across all collections at once.,0
+As an engineer I want to create tag in BR-PlantHistorian so that more integration with other apps.,0
+As an engineer I want to store array type variables so that it's easy to store information that needs multiple points related to the same timestamp.,0
+"As an external collaborator, I want to Access data from Bath collaborators off campus so that I can collaborate effectively.",0
+"As an external collaborator, I want to Gain privileged access to data for projects in which I am involved so that I can collaborate effectively.",0
+"As an external collaborator, I want to Have guarantees that my IP rights will not be breached so that The risk of collaborating with Bath is acceptable to me.",0
+"As an System Administrator, I want to declare that a user is has the Repository Manager role for a given Repository.",0
+"As as a CQWL, user I need configurable postage rates so that each white label can have accurate piece pricing.",0
+As BR-Historian manager I want to change sist parameter in a simple way To facilitate change management.,0
+As complaint clerk I want to be able to contact the licensure to tell him he has a violation submitted against him.,0
+As complaint clerk I want to be able to review the complaint so that I can accept it or reject it.,0
+"As the university IT service, I want to Be able to export all data to a different system so that I am not tied into one system which may not be the most appropriate at some point in the future.",0
+"As the university IT service, I want to Integrate the archive with existing university systems such as LDAP so that the cost of administering the system can be kept low.",0
+"As the university IT service, I want to Store archived data directly on the HCP object store so that the Best use of the HCP’s features can be made.",0
+"As the university IT service, I want to Store archived data on existing storage systems so that University data storage is consistent and maintainable and the Future availability of data can be guaranteed.",0
+As user BR-PlantHistorian I want to change color login screen To make it different from BR-PlantViewer.,0
+As user BR-PlantViewer I want to create my own component so that re-use of visual representation.,0
+As user BR-PlantViewer I want to have graphic component so that it facilitates visualization of data.,0
+As user BR-PlantViewer I want to name tag visualization so that adjusting graph presentation.,0
+As user BR-PlantViewer I want to name Y-axis so that explicit variable counted.,0
+As user BR-PlantViewer I want to reformulate vector component so that I choose data in X and Y in the creation of graph.,0
+As user BR-PlantViewer I want to rename category and legend so that easy maintenance of the graphics bar.,0
+As user BR-PlantViewer I want to rename predictive control chart to vector chart so that nomenclature is more comprehensive.,0
+"As User, I want to be able to log in.",0
