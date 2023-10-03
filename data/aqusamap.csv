@@ -1,0 +1,10 @@
+value,key
+1,minimal.brackets
+2,well_formed.no_means
+3,minimal.punctuation
+4,well_formed.no_role
+5,unique.identical
+6,atomic.conjunctions
+7,minimal.indicator_repetition
+8,uniform.uniform
+0,none

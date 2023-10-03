@@ -4,13 +4,14 @@ from transformers import InputExample, InputFeatures
 import tensorflow as tf
 import pandas as pd
 
+
 # Load the tokenizer
 tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
 
 # Prepare the data
 # Assuming we have the dataset stored in two CSV files, one for training and one for testing
-train_data = pd.read_csv("train.csv") 
-test_data = pd.read_csv("test.csv")
+train_data = pd.read_csv("data/storylinetrain.csv")
+test_data = pd.read_csv("data/storylinetest.csv")
 
 # Convert the data into the appropriate format
 def convert_data_to_examples(train, test, DATA_COLUMN, LABEL_COLUMN): 
@@ -84,7 +85,7 @@ validation_data = convert_examples_to_tf_dataset(list(validation_InputExamples),
 validation_data = validation_data.batch(2)
 
 # Create the model
-model = TFBertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels=7)
+model = TFBertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels=2)
 
 # Compile the model
 optimizer = tf.keras.optimizers.Adam(learning_rate=3e-5, epsilon=1e-08, clipnorm=1.0)
@@ -94,3 +95,5 @@ model.compile(optimizer=optimizer, loss=loss, metrics=[metric])
 
 # Train the model
 model.fit(train_data, epochs=3, validation_data=validation_data)
+
+model.save_pretrained('storylinemodel')

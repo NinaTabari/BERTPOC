@@ -1,0 +1,374 @@
+text,label
+"As a, I want to use a configuration that is not repackaged within a built version of application, so that default end.",0
+"As an external collaborator, I want to access data from bath collaborators off campus so that I can collaborate effectively, so that default end.",0
+"As a End User I want to be able to see the physical context of an Item in a digital collection (i. e. See inside this folder; EAD).",1
+"As a researcher, I want to interact with a revision control system so that I can keep track of changes to files over time, so that default end.",0
+"As a Visitor I'm able to view textual information on the selected media element.",1
+"As a DPU I want to upload master surrogates to a Component.",1
+"As a user, I want to see the flight number, so that default end.",0
+"Derive cruise altitudes by leg length for each of the sy system's aircraft types.",1
+"As the university IT service, I want to store archived data directly on the HCP object store, so that the best use of the hc ’s features can be made.",0
+"As a cataloger or collection manager I want to be able to use a grid/spreadsheet style interface so I can edit Items quickly.",1
+"As a site member, the upcoming courses are what I want visitors to notice.",1
+"As an archivist, I want to create and edit Agent records.",1
+"As a trainer, I want my rating to show up on my profile page.",1
+"As a user, I want to look through a library of sounds.",1
+"As admin I want to organize area hierarchy so that it is easy to create process area architecture.",1
+"As a researcher, I want to create a log book page, so that default end.",0
+"As an archivist, I want to create and edit agent records, so that default end.",0
+"As a site admin, I want jobs to stop publishing on the site 30 days after being posted. (Note: 30 days doesn’t need to be configurable at this point. Hardcoding is fine for now.).",1
+"As a complainant, I want to submit my complaint anonymously, so that no one knows it was me.",0
+"As a clerk, I want to generate an AIR report, so that default end.",0
+"As an editor, I want to translate media items to multiple languages so that I can produce content in different language easily, so that default end.",0
+"As a student, I want to clearly understand notifications and how they are difference from other calendar related items such as assignments so that I can make sure I know allthat I need to do, so that default end.",0
+"As an archivist, I want to manage digital objects, so that default end.",0
+"As a user, I want to view an interactive map of the event region so that I can view intact mass event locations listed by plot #, so that default end.",0
+"As a student I'd like to check off and see my completed tasks.",1
+"As a user, I want to restrict what can be entered to a metadata field, so that default end.",0
+"As a trainer, I want to be assured that no one can submit the same answers multiple time and skew my results.",1
+"As a user, I want to see how many digitized items have been described, so that default end.",0
+"As an archivist, I want to add notes to other record types, so that default end.",0
+"As a researcher, I want to attach standard metadata for drug responses, so that my data can later be searched for and understood.",0
+"As a user, I want an RSS feed so I can collect records as new titles go online, since HL will digitize pamphlets for years.",1
+"As a user I want to be able to prove definitively that I created a page on a certain date.",1
+"As a Visitor I'm able to order the search results so that I can more easily review the results.",1
+"As a User, I want access to aerial photos (eg: VT orthos) with no downloading required (ie: as a web service).",1
+"As a user, I want more format or projection options when downloading, so that default end.",0
+"As an IT Manager, I want iv6 support by CMS SITEMANAGER so that I am ensured that CMS SITEMANAGER will work fine once iv6 is applied into our hosting or network environment, so that default end.",0
+"As a researcher I can upload files prior to having them attached to a log book page.",1
+"As a marketeer I want to switch URLs when URL duplication occurs between pages so that I can solve conflicts between pages easily without having to search all pages in the tree.",1
+"As a site member, I want to describe myself on my own page in a semi structured way, so that default end.",0
+"As a company, I can join the Scrum Alliance by paying a corporate membership fee. This will include uploading items related to corporate membership (e.g., company description, a logo of size x by y).",1
+"system should provide an active display of all system and service statuses.",1
+"Managerial log entry. Manager opens user's log and interjects a comment. Manager comments are highlighted to draw distinction from user logs. Security: User, manager.",1
+"As a cataloger and a collections manager I want Trident to support Duke Core so that metadata is consistent between collections.",1
+"As a DPU, I want trident to create derivatives for me when I upload a master, so that default end.",0
+"As a public user, I want a web application that can locate all the DRS objects related to a specific collection or topic e.g, so that default end.",0
+"As a site visitor, I want the link from the article teaser to take me directly to the body of the article, so that default end.",0
+"As a user I can limit my search results to one or more log book sections from one or more log books.",1
+"As a user, I want to look up flight names, so that default end.",0
+"As a student, I want to be able to see photos of my current GSIs and instructors.",1
+"As a visitor, I want to download presentations pdfs cetera on scrumthat I can use, so that default end.",0
+"As a site editor, I have ideas on how I want the home page to look and feel.",1
+"As a User, I want to download aerial photos (eg: VT orthos) so I can use them on my computer.",1
+"As a User, I want to see a listing of all available data even if it isn't available for immediate download or if there are access. . . ",1
+"As a research information manager, I want to Have datasets linked to metadata about projects so that I can report on projects depositing datasets in relation to funder requirements.",1
+"As a User, I want to flag errors in the data and have them submitted to the data steward.",1
+"As a User, I want to find and download Regional-level (RPC) GIS data.",1
+"As a default role, I want the system generator to validate aircraft types before accepting a flight into the system database, so that default end.",0
+"As a site admin, I want to be e - mailed whenever a job to be submitted, so that default end.",0
+"As a student, I want to see photos of my current GSIS and instructors, so that default end.",0
+"As a user, I want web services that work with ARCGIS software, so that default end.",0
+"As a public user, I want a web application that can locate all the DRS objects related to a specific collection or topic, e.g. ''Eleanor Roosevelt. ''.",1
+"As a public user, I want a web application that can locate all the DRS objects related to a specific collection or topic, e.g. ''Eleanor Roosevelt. ''.",1
+"As a site admin, I want to delete any course or event, so that default end.",0
+"As a Visitor I'm able to open the interactive map from the person's profile page so that I know the location of the person's event plot.",1
+"As a business decision-maker I want to use French as native language for CMS SiteManager so that native french-speaking editors adopt CMS SiteManager easily and as a result gain a better understanding of the application.",1
+"As a trainer, I want to read information of relevance only to trainers, so that default end.",0
+"As a site admin, I can see the results for each trainer and averages for the class (for all trainers).",1
+"Create the development environment for building/testing constraints.",1
+"As a User, I want to integrate aerial photos (eg: VT orthos) into my own web mashups.",1
+"As a trainer, when I create an Other Course or Event, I am charged a listing fee for that activity. (Note: We’ll need this to tie into credit card processing.).",1
+"As a student I want to have up to date information when planning my schedule. (PAIN POINT: schedule. berkeley. edu isn't always correct.).",1
+"As a trainer, admin, or editor, I can turn a course into an event or an event into a course (in case it was entered in the wrong category). (Note: making something a Certification Course will probably require selecting the name of the course from the pre-approved list. ). ",1
+"As a research information manager, I want to have datasets linked to metadata about projects so that I can report on projects deposition datasets in relation to under requirements, so that default end.",0
+"As a User, I want all data that I find to be available for download (not just a link to an external website).",1
+"As a site member, I want to view the profiles of other members, so that default end.",0
+"As a trainer, I want my profile to list my upcoming classes and include a link to a detailed page about each.",1
+"As a CSM or CPO who has been approved for Practitioner status (by a site admin reading my submission), I am charged a fee.",1
+"As a visitor, I want to search for people in the ABC database so that I can review the profiles of the positioned people, so that default end.",0
+"A manager or administrator views the changes that have been made to sensitive (audited) fields in the application. Changes are recorded from the creation of a record up to the present.",1
+"As a marketer, I want to view the top referrals of the week so that I can quickly see what websites drive most traffic to a specific page or media item, so that default end.",0
+"Staff would like to generate and send a Formal Letter of complaint.",1
+"As a default role, I want when a user creates a project he selects a project type or template that creates a default set of action items for the project, so that default end.",0
+"As a visitor, I want to view the media gallery so that to see interesting photo's about the event region, so that default end.",0
+"As a researcher, I want to search for images of cells using standard metadata, so that default end.",0
+"As an archivist, I want to add Notes to other record types (besides resources).",1
+"As a visitor, I want to view the ABC introduction, so that I get engaged.",0
+"As a User, I want to specify data types (eg: polygon, points, lines, raster) in searches.",1
+"As a user, I want to be able to keep my data private on the system, and only share data that I deem should be shared.",1
+"ability to preview an in process order with accurate information in PDF format and branded by the partner.",1
+"As a default role, I want the customers select at least one video for rental, so that default end.",0
+"As a student I want to have clear explanation of the enrolllment process, including waitlist so that I don't end up in a class I don't want by mistake (which happened).",1
+"As an external collaborator, I want to Gain privileged access to data for projects in which I am involved so that I can collaborate effectively.",1
+"As a bath data archive administrator, I want to encourage and promote the use of open standards for deposit, so that data is as reusable as possible.",0
+"As a catalog or collection manager, I want to edit an arbitrary number of items at once so that I can make changes to all items in a collection efficiently, so that default end.",0
+"The system generator should validate aircraft types before accepting a flight into the system database.",1
+"As a researcher, I want to upload files prior to having them attached to a log book page, so that default end.",0
+"As a user I want to either keep a log book entry private or share it with individuals rather than groups.",1
+"As a student, I want to have accurate information about required, breadth & major requirements, so that I can effectively planning my academic career.",1
+"As a visitor, I want to view the general information of a person so that I can learn more about an individual's event on event region, so that default end.",0
+"As a user, I want to flag errors in the data and have them submitted to the data steward, so that default end.",0
+"As a researcher, I want any data that I have written to the VRE to be protected from modification or deletion, so that original data can always be traced back to an experiment and a point in time.",0
+"As a site member, I want to subscribe to an RSS feed of news, so that default end.",0
+"As a researcher, I want to be able to search for files by file type (for example electro physiology, image and video) and format (e.g. . eeg, DICOM, MPEG-2).",1
+"As an Archivist, I want to create and edit Event records.",1
+"As as a CQWL user I need configurable postage rates so that each white label can have accurate piece pricing.",1
+"As a collection manager, I want my collection to be discoverable in the catalog, so that default end.",0
+"As a User, I want more format/projection options when downloading.",1
+"The system shall report the disk capacity used and  left, both   in the panel’s disks and  the application server’s disk.",1
+"As a site visitor, I can subscribe to an RSS feed of articles. (Teasers only?).",1
+"As a supervisor I can view what my researchers were doing on a given date or period of time.",1
+"Provide a box that will display the application name and version number for ATS, as well as tech support contact info.",1
+"I want to be able to create personal log entries that are viewable only to me. I would also like to restrict access to log entries to me and my manager; me, my manager, and the company for which the log entry was created; me and my group. Regardless, only people who can see my projects can see my project's log entries. ",1
+"As a trainer, I can read information of relevance only to trainers.",1
+"As a user, I want to keep my data private on the system and only share data that I deem should be shared, so that default end.",0
+"As a visitor, I want to view the ABC experience homepage so that to learn about the event region, so that default end.",0
+"As a user, I want to prove definitively that I created a page on a certain date, so that default end.",0
+"As a user, I want to see the provenance of the page, so that default end.",0
+"As a student I want to have personalized financial data so that I am only looking at data that is relevant to me (e.g. because I'm an international student, do not show financial aid information).",1
+"As a student I want to have all of my financial information in one place so I know how much money I have.",1
+"As a data re-user, I want to Examine and identify deposited files so that I can make a preliminary assessment of usefulness without downloading the whole dataset.",1
+"As a user I want to make uploaded data files to be non-modifiable.",1
+"As a CSM, Practitioner, or Certified Product Owner, I can have my name listed in the registry without becoming a member of the site. (For example, I take a certification class but never register or let my membership lapse.).",1
+"As a supervisor, I want to view what my researchers were doing on a given date or period of time, so that default end.",0
+"As a site member, I want to search for profiles based on a few fields, so that default end.",0
+"Staff would like to be able to generate a hearing report.",1
+"As admin, I want to control access to the tags, so that limiting access to a group of tags.",0
+"As a User, I want all data that I find to be available for download (not just a link to an external website).",1
+"As a student, I want to see scholarship information that is relevant to my status so that I can maximize those opportunities, so that default end.",0
+"As a site member, I want to describe myself on my own page in a semi-structured way. That is, I can fill in predefined fields, but also have room for a free-text field or two. (It would be nice to let this free text be HTML or similar.).",1
+"As a default role, I want managerial log entry, so that default end.",0
+"As an archivist, I want to rearrange the (resource | digital object) hierarchy using keyboard-based navigation.",1
+"As a default role, I want a user marks a project as being owned by his group, so that default end.",0
+"As a default role, I want the user browse action items by responsibility and completed or not, so that default end.",0
+"As an airline, I want to compare my flight record with other airlines' on the same  route.",1
+"As a researcher, I want to view a finding aid for a particular collection or resource, so that default end.",0
+"As a user, I want access to ESRI playerfile packages, so that default end.",0
+"As a site visitor, I want to see a list of all upcoming events, so that default end.",0
+"As a User, I want to see rankings of datasets, web services, and web applications to help me pick the 'best' option.",1
+"As a visitor, I want to use the contact form so that to contact the administrator, so that default end.",0
+"As a programmer building image display applications, I need to obtain admin metadata access rights for public/private DRS content (URNs).",1
+"As a site administrator, I want to create an other course, so that default end.",0
+"As a default role, I want to suspended users to not be able to borrow books, so that default end.",0
+"As a catalog and a collections manager, I want trident to support Duke core, so that metadata is consistent between collections.",0
+"As a User, I want access to aerial photos (eg: VT orthos) with no downloading required (ie: as a web service).",1
+"As a student, I want to be informed of academic calendar deadlines, so that default end.",0
+"As a default role, I want the reservation to be valid for any copy of a particular book, so that default end.",0
+"As a user, I want to control layer rendering for VT GIS data layers accessed via a web map service, so that default end.",0
+"As a user when I hear a strange noise, I want to look up what it might be and get information, so that default end.",0
+"As a user, I want all data that I find to be available for download, so that default end.",0
+"As a end user, I want to see the physical context of an item in a digital collection, so that default end.",0
+"As a student, I want to distinguish or filter in assignments with deliverables, so that default end.",0
+"As a site a site editor, I can set the following dates on a news item: Start Publishing Date, Old.",1
+"As an authenticated user of the application, I want to get access to links to contextual help, so that default end.",0
+"As a default role, I want as a data re user to see different versions of a dataset at a glance so that I can be sure i ’m using the right version of the dataset, so that default end.",0
+"As a complainant I want to be able to submit my complaint anonymously so no one knows it was me.",1
+"As a site editor, I want i have ideas on how I want the home page to look and feel, so that default end.",0
+"As a junior researcher, I want to be able to harvest knowledge from within the group, so that I can learn from more experienced researchers.",1
+"A user marks a project as being owned by his group. (Question: can a user ever belong to more than one group?).",1
+"As user, I want to log in, so that default end.",0
+"As a default role, I want as a data re user to search the archive through the web so that I can easily find data relevant to my needs, so that default end.",0
+"As a Visitor I'm able to see a list of news items so that I can stay up to date on ABC news.",1
+"As a user, I want to download VT GIS data layers in GML format, so that default end.",0
+"As an external collaborator, I want to Access data from Bath collaborators off campus so that I can collaborate effectively.",1
+"As a researcher, I want to be able to share post-experiment write-ups with other researchers (e.g. sharing protocols and workflows for conducting specific types of experiments) so that others can more easily replicate my work.",1
+"As a bath data archive administrator, I want to approve scheduled disposal of data, so that data which is still required is not destroyed.",0
+"As a marketeer I want to view the top refferals of the week so I can quickly see what websites drive most traffic to a specific page or media item.",1
+"As a corporate sponsor I want my logo to randomly appear on the home page. (That is, it rotates among other corporate sponsors.).",1
+"As user BR PLANTVIEWER, I want to name tag visualization, so that adjusting graph presentation.",0
+"Money is collected  and  the amount is entered  into the system.",1
+"As a user, I want to see the temperatures of both locations.",1
+"As a depositor, I want to deposit arbitrarily large files so that I am not limited in what files I can and can not deposit, so that default end.",0
+"As a bath data archive administrator, I want to Approve scheduled disposal of data so that Data which is still required is not destroyed.",1
+"As a researcher, I want services to support the long term curation of data, so that default end.",0
+"As a university press, I want to request publication rights throw a's or w interface so that to speed e book publication, so that default end.",0
+"As a BR-Historian manager I want to view backup files To validate generation of backups.",1
+"As an IT manager I want IPv6 support by CMS SiteManager so I'm ensured that CMS SiteManager will work fine once IPv6 is applied into our hosting/network environment.",1
+"As a default role, I want the RO to filter by jet or vector airways, so that default end.",0
+"As a user, I want to apply a five percent discount to my postage rate so that I can receive the correct pricing, so that default end.",0
+"As a provider of DRS imaging services, I want access to preferred citations, so that default end.",0
+"As a system administrator, I want there to be a managed backup protocol for the system, so that default end.",0
+"As a user, I want to look up flight names.",1
+"As a fourth-year student, I want to be able to have presented to me only features and content that are relevant to my status, so that I can focus on what is most relevant (e.g. finding a job).",1
+"As a developer, I want to develop a custom importer, so that default end.",0
+"As a User, I want 'authoritative' datasets to be discoverable and clearly identified.",1
+"As a User, I want a button that allows me to 'share' things that I discover on the Data Warehouse via a URL link, Twitter and. . . ",1
+"As a researcher I can upload files prior to having them attached to a log book page using a mapped network drive.",1
+"As a student I want to have something that presents and helps me keep track of all the steps for tasks (e.g. attaining California residency, graduation-related items).",1
+"As a Visitor I'm able to review key information of all found people so that I have an indication of the person's details.",1
+"As an, I want to assign users to an advanced data entry and ensure that the appropriate permissions are enforced, so that default end.",0
+"As an archivist, I want to rearrange the resource description hierarchy by dragging an archival object to a different position in the hierarchy, so that default end.",0
+"As a default role, I want a user marks a project as being owned by his group, so that default end.",0
+"How to manage BR-Historian I want to register tags divided in steps To facilitate registration of tags.",1
+"As an Administrator I'm able to delete an existing person in the event of relocation.",1
+"As a cataloger, I want to create linked open data using persistent links to content in the DRS, so that default end.",0
+"As a collection manager, I want to map fields in inherited metadata to Duke core fields and import a spreadsheet and create records, so that default end.",0
+"As a default role, I want easily record an email message in ATS, so that default end.",0
+"As a site visitor, I want to see a list of all upcoming events, so that default end.",0
+"As someone whose membership (of any type) is about to expire, I am sent a reminder and a link through which I can renew. (Note: Think about overlapping memberships and prorating.).",1
+"As a user, I want more format or projection options when downloading, so that default end.",0
+"As a system administrator I can migrate data from an older version of NeuroHub to the current version.",1
+"A user marks a project as being owned by his group. (Question: can a user ever belong to more than one group?).",1
+"As a site admin, I want jobs to stop publishing on the site 30 days after being posted. (Note: 30 days doesn’t need to be configurable at this point. Hardcoding is fine for now.).",1
+"As a developer, I want bulk access to metadata so that I can preprocess the data set, so that default end.",0
+"As a default role, I want the ability to preview an in process order with accurate information in PDF format and branded by the partner, so that default end.",0
+"As a default role, I want the news date stop publishing date these dates refer to the date an item becomes visible on the site the date it stops appearing on the home page and the date it is removed from the site, so that default end.",0
+"As a collection manager (Amy Benson), I want to be able to pass in a set of URNs, possibly as a result of a HOLLIS search), and get that content back.",1
+"As a default role, I want the RO to filter segments by angle to keep the solutions from doubling back in an unrealistic fashion, so that default end.",0
+"As a site member (?), I can scroll through a listing of jobs. (There won’t be enough at first to justify search fields.).",1
+"As a citizen, I want to submit a complaint against a license, so that the state can investigate it.",0
+"As a student, I want to have something that presents and helps me keep track of all the steps for tasks, so that default end.",0
+"As a user, I want to edit the content that I added from a person's profile page to update the information, so that default end.",0
+"As a user, I want to specify data types in searches, so that default end.",0
+"As a researcher, I want a group level repository for sharing papers or reviews or comments with other researchers, so that default end.",0
+"As a Developer I want to develop a custom importer.",1
+"As a User I'm able to click a particular plot location from the map and thereby perform a search of people associated with that plot number.",1
+"As a user, I want to look at my pilot's turbulence record prior to and during a flight.",1
+"As an admin user, I want to have granular access to all external metadata about the object e.g, so that default end.",0
+"User browses action items by responsibility and completed or not. (Possibly other filters -- check).",1
+"As a student, I want one place to go when registering for classes, so that default end.",0
+"As a visitor, I want to navigate the site through the site wide footer menu so that I can always quickly open the page I am looking for, so that default end.",0
+"As a visitor, I want to order the search results so that to more easily review the results, so that default end.",0
+"As an external collaborator, I want to gain privileged access to data for projects in which I am involved so that I can collaborate effectively, so that default end.",0
+"As a User, I want web services that work with ArcGIS software (desktop, mobile, and browser-based clients).",1
+"As a User I want to monitor the progress of a digital collection project.",1
+"As a site admin, I want jobs to stop publishing on the site thirty days after being posted, so that default end.",0
+"As a default role, I want as a data re user to examiner and identify deposited files so that to make a preliminary assessment of usefulness without downloading the whole dataset, so that default end.",0
+"As a site member, I want to have full access to all articles, so that default end.",0
+"As an editor I want to crop images so I can edit images easily without using photo editing tools and therefore I can work more productive.",1
+"As a DPU, I want to create structural metadata for an item so that I can define the sequence of components, so that default end.",0
+"As a student, I want to manage my mealpoints on so that I know I have enough available.",1
+"As a user, I want a button that allows me to share things that IDiscover on the data warehouse via a URL link twitter and, so that default end.",0
+"As a User I'm able to logout so that other Users of my device don't have access to my private account.",1
+"As a default role, I want as a data re user to view an example citation for a dataset so that I can reference it correctly, so that default end.",0
+"As a system administrator there should be a managed backup protocol for the system.",1
+"As a depositor, I want to Have metadata automatically filled from other University systems (e.g. Pure) and/or remembered from previous deposits so that I don’t have to waste time re-entering the same information.",1
+"As an archivist, I want to associate a standard identifier string with a subject heading, so that default end.",0
+"As a user, I want to see my departure location and my arrival location, so that default end.",0
+"As a user, I want to know how long I have been in the air, so that default end.",0
+"As a default role, I want to add PO number to MCNALLY report, so that default end.",0
+"As a researcher, I want to share post experiment write ups with other researchers, so that default end.",0
+"As a site visitor, I want the link from the article teaser to take me directly to the body of the article. . . not to another teaser setup.",1
+"As a cataloger, I want to be able to create linked open data using persistent links to content (URNs) in the DRS.",1
+"As a student, I want to easily see when I have to pay my bill and how much I owe so that I don't have a registration block or pay late fees.",1
+"As a default role, I want the system to turn the panels on and off through the web, so that default end.",0
+"As staff I want to be able to communicate back and forth with the complainant and the licensure to get the information I need to process the application.",1
+"As a user, I want to assign tags to files that I have uploaded, so that default end.",0
+"The maximal   number of tapes that a customer can have outstanding on rental is 20.",1
+"As a User, I want to download all data as pre-packaged files via FTP.",1
+"As a bath data archive administrator, I want to Query the entire archive (including embargoed records) so that I can report on particular aspects of the archive holdings.",1
+"As a user, I want to revert to an older version of an uploaded file, so that default end.",0
+"As a default role, I want the system to provide an active display of all system and service statuses, so that default end.",0
+"As a student, I want to see scholarship information that is relevant to my status, so that I can maximize those opportunities.",1
+"As a user, I want to know how much longer I will be in the air.",1
+"As a default role, I want the users to reserve books irrespective of whether or not the requested book is on loan, so that default end.",0
+"As a trainer, I want my profile page to include additional details about me, so that default end.",0
+"As a student, I want to easily see my upcoming events and tasks, so that default end.",0
+"As a site administrator, I want to create an other course, so that default end.",0
+"As a site visitor, I want to read FAQS, so that default end.",0
+"As a depositor, I want to deposit the files that I have, so that I do n’t have to spend a lot of time finding the right version and converting to the right format.",0
+"As a researcher executing a workflow, I want the details of the workflow plan as well as the execution history and results recorded in Neurohub, so that default end.",0
+"As a user, I want to look at my pilot's turbulence record prior to and during a flight, so that default end.",0
+"RO interface should accept temporal buffer for input constraints.",1
+"As a user, I want to either keep a log book entry private or share it with individuals rather than groups, so that default end.",0
+"As an admin user, I want to have granular access to all external metadata about the object e.g, so that default end.",0
+"As a default role, I want the reservation to be valid for any copy of a particular book, so that default end.",0
+"As a Visitor I'm able to search for people in the ABC database so that I can review the profiles of the positioned people.",1
+"Create an interface for the user to validate their query parameters for pub/sub system queries.",1
+"As a customer site I need to change the content on core pages so I can reflect the text I need to display.",1
+"As a researcher, I want the ability to restrict the data I share to certain researchers or groups of researchers, so that default end.",0
+"As a user, I want to search by standard data themes using iso 19115 topic, so that default end.",0
+"As a researcher, I need to be able to search for images of cells (and brains) using standard meta data.",1
+"As a User, I want access to imagery organized by year (whether for download or web service).",1
+"As a data re-user, I want to See different versions (including the latest) of a dataset at a glance so that I can be sure I’m using the right version of the dataset.",1
+"As a researcher working away from the laboratory, I want secure remote access to the Neurohub node, so that default end.",0
+"As a default role, I want the maximal number of tapes that a customer can have outstanding on rental is twenty, so that default end.",0
+"As a user I can store worm behaviour videos with an encoding that can be analysed by the worm analysis software written by Christopher James.",1
+"As a User I'm able to view an interactive map of the Event Region so that I can view intact mass event locations listed by plot #.",1
+"As a Read Only user I want to view archival descriptions in my repository.",1
+"As a student, I want to manage my mealpoints on, so that I know I have enough available.",0
+"As a data re-user, I want to View an example citation for a dataset so that I can reference it correctly.",1
+"As a student I want to be able to keep separate my personal (and club) tasks from my work (academic) tasks.",1
+"As a university press, I want to be able to request publication rights throu a S/W interface, so that I can speed e-book publication.",1
+"As a depositor, I want to link datasets to publications in opus, so that both my data and publications are more easily discovered.",0
+"As a user, I want access to aerial photos with no downloading required, so that default end.",0
+"Sales Rep account creation with venture 1 num.",1
+"As a default role, I want the user browse action items by responsibility and completed or not, so that default end.",0
+"As a visitor, I want to view the added stories on the profile page so that I can learn more about the person, so that default end.",0
+"As a default role, I want how to manage BR historian to register tags divided in steps to facilitate registration of tags, so that default end.",0
+"As a User, I want more format/projection options when downloading.",1
+"As a Collection Manager I want my collection to be discoverable in the Catalog.",1
+"As a default role, I want the system to allow the preview of playlists, so that default end.",0
+"As a default role, I want the system to manage the state of playlists, so that default end.",0
+"As a collection manager, I want to pass in a set of URNS possibly as a result of a HOLLIS search ) and get that content back, so that default end.",0
+"As a user, I want to view an interactive map of the event region so that I can find event locations, so that default end.",0
+"As a site member, I want to download the latest training material and methodology PDFS, so that default end.",0
+"As the site editor, I have pretty good control over how the article looks (include images and captions, for example).",1
+"As a lab administrator I want a way of managing worm strain stocks that is integrated with Wormbase.",1
+"The system shall allow the creation, edition and  deletion of playlists , so that downloaded videos can be included  in certain  playlists. It  will  also  be possible  to change the order of videos in a playlist.",1
+"As a user, I want to monitor the progress of a digital collection project, so that default end.",0
+"As an archivist, I want to create and edit event records, so that default end.",0
+"As a user, I want to know how much longer I will be in the air, so that default end.",0
+"As a Visitor I'm able to navigate the site through the site wide footer menu so that I can always quickly open the page I'm looking for.",1
+"As a Trainer, I want my profile page to include additional details about me (i.e., some of the answers to my Trainer application).",1
+"As a student I'd like campus applications to work on my phone.",1
+"As a member with short-term memory problems, I can have the system email me a new password or a password reminder, possibly my username (unless we use email for that), and so on.",1
+"As a site member, I can subscribe to an RSS feed of news (and events? or are they separate?).",1
+"As a student, I want to easily discover campus resources such as health benefits housing options and how to get around campus, so that default end.",0
+"As a User, I want access to VT GIS data layers with no downloading required (ie: as a web service).",1
+"As a visitor, I want to see a list of news items so that I can stay up to date on ABC news, so that default end.",0
+"As a site administrator, I want to create an other course, so that default end.",0
+"As a programmer working with images from the drs, I want to look up technical metadata about images so that I can properly size and position them in my web application E.g, so that default end.",0
+"As the site editor, I can add an article to the site.",1
+"As a student, I want to clearly understand notifications and how they are difference from other calendar-related items such as assignments, so that I can make sure I know all that I need to do.",1
+"As a trainer when I create an other course or event, I want to be charged a listing fee for that activity, so that default end.",0
+"Faculty shall be able to use ACMELIS to borrow books without having to visit the library in person. To do this , and respecting the constraints set out in Req(16), Req(17), Req(18) and Req(19), they  shall  enter the loan data in ACMELIS.",1
+"As a site admin, I want to edit and delete help wanted ads, so that default end.",0
+"As a User I'm able to edit the content that I added from a person's profile page to update the information.",1
+"As a collection manager, I want to import metadata and create records from a DCP digitazation guide, so that default end.",0
+"As a student, I want to check off and see my completed tasks, so that default end.",0
+"As a user I want to restrict what can be entered to a metadata field.",1
+"As a bath data archive administrator, I want to query the entire archive so that to report on particular aspects of the archive holdings, so that default end.",0
+"As a user, I want to download aerial photos so that to use them on my computer, so that default end.",0
+"As a user, I want to change the sharing and ownership of multiple files, so that default end.",0
+"As admin, I want to organize area hierarchy, so that it is easy to create process area architecture.",0
+"As a User, I want to specify data types (eg: polygon, points, lines, raster) in searches.",1
+"As a student I want more transparency and communications about getting into a class & wait list rules and processing.",1
+"As a marketer, I want to view basic analytics data of media items easily so that I can analyze whether content is relevant to the intended audience, so that default end.",0
+"As a student I want to easily discover campus resources such as health benefits, housing options, and how to get around campus.",1
+"As a user, I want to search specifically for files rather than log book pages, so that default end.",0
+"As a visitor, I can download presentations, PDFs, etc. on Scrum that I can use.",1
+"As a site admin, I want to be e - mailed whenever a job to be submitted, so that default end.",0
+"As a programmer building image display applications, I want to obtain admin metadata access rights for public or private DRS content, so that default end.",0
+"As a business decision maker, I want to use french as native language for CMS SITEMANAGER, so that native french speaking editors adopt CMS SITEMANAGER easily and as a result gain a better understanding of the application.",0
+"As a user, I want access to VT GIS data layers with no downloading required, so that default end.",0
+"As a depositor, I want to Attach subject-specific discoverability metadata to records so that. Researchers in my discipline can find my data more easily.",1
+"As a researcher, I want to be able to interact with a revision control system so that I can keep track of changes to files (e. g hypothesis, notes, experiment descriptions, questionnaires, input files, results) over time.",1
+"As a default role, I want to restrict access to the application, so that default end.",0
+"As a user, I want to rank datasets web services and web applications, so that default end.",0
+"As a BR historian manager, I want to view backup files to validate generation of backups, so that default end.",0
+"As a site administrator, I want to set the annual fees for members practitioners and trainers, so that default end.",0
+"As a student, I want to have personalized financial data so that I am only looking at data that is relevant to me, so that default end.",0
+"As a trainer, I want to be notified about the results of surveys about my classes, so that default end.",0
+"As a default role, I want to create the development environment for building or testing constraints, so that default end.",0
+"As a student I want to have something that presents and helps me keep track of all the steps for tasks (e.g. attaining California residency, graduation-related items).",1
+"As a public user, I want a web application that can locate all the DRS objects related to a specific collection or topic e.g, so that default end.",0
+"As a default role, I want the users to consult their reservations, so that default end.",0
+"As an Archivist, I want to be able to understand that an error occurred during import and why it might have occurred.",1
+"As a trainer who has finished teaching a certification class, I want to load an excel file into the site, so that default end.",0
+"As a user, I want to download VT GIS data layers in ESRI file geodatabase format, so that default end.",0
+"As a visitor, I want to review key information of all found people, so that I have an indication of the person's details.",0
+"As a data re-user, I want to Search the archive through Primo (university of bath library search system) so that I can search books, articles and data all in one place.",1
+"As a site visitor, I want to access old news that is no longer on the home page, so that default end.",0
+"As an archivist, I want to understand that an error occurred during import and why it might have occurred, so that default end.",0
+"As a default role, I want the customer signs the rental form takes the tape and leaves, so that default end.",0
+"As a Digital Production User (DPU) I want to be able to create Components.",1
+"News Date, Stop Publishing Date.These dates refer to the date an item becomes visible on the site (perhaps next Monday), the date it stops appearing on the home page, and the date it is removed from the site (which may be never).",1
+"As a provider of DRS imaging services, I need access to terms of use statements for objects. For example, aA limited menu of HL use-permissions statements could be formulated, stashed in DRS, and associated with individual resources, or whole classes of resources. When we allow our digital resources to be used outside of our library systems (e. g. within DPLA, or other applications like the Library Lab funded Zeega project), the object can travel with the requisite use-permissions. ",1
+"As a site admin, I can edit and delete help wanted ads.",1
+"As a default role, I want the system to manage the state of playlists, so that default end.",0
+"As a complainant, I want to check the status of the complaint online, so that I do not have to talk to the department.",0
+"As a site visitor, I want to subscribe to an RSS feed of articles, so that default end.",0
+"As a student I want to be informed of academic calendar deadlines.",1
+"As a User, I want access to ESRI layerfile packages.",1
+"As a customer site, I want to change the content on core pages so that I can reflect the text I need to display, so that default end.",0
+"As a licensing partner, I want clients to be redirected back to the site, so that they can continue their order process.",0
+"As a marketeer I want to view basic analytics data of media items easily so that I can analyze whether content is relevant to the intended audience.",1
+"As a User, I want to control when and what I get notified about.",1
+"As a lab member I want to be able to view events and equipment bookings within the group.",1
+"As a user I can download files directly from the search results page.",1
+"As a site visitor, I want have articles that interest me and are easy get to, so that default end.",0
+"As a site visitor, I can see a list of all upcoming “Events. ” (Events are things such as the Scrum Gathering, conferences, free seminars, etc.).",1
+"As a user, I want to store worm behaviour videos with an encoding that can be analysed by the worm analysis software written by christopher james, so that default end.",0
+"As a user, I want to download files directly from the search results page, so that default end.",0

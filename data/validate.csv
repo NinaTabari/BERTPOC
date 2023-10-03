@@ -1,0 +1,373 @@
+As a site admin, I need to approve each help wanted ad before it gets to the site.
+As an Archivist, I want to assign a component unique identifier to a Resource Component (e.g. for a series title).
+As a depositor, I want to Apply licenses to datasets so that My IP rights are protected appropriately.
+As a User, I want to see a list of all data, web services, and applications associated with a particular dataset.
+The video inventory file is updated.
+As a user, I want to read about what the sound could be caused by.
+As a site admin who has received proof of payment from a trainer, I can move people in his or her class from a pending state to the registry.
+As a depositor, I want to Allow others to deposit on my behalf so that I can delegate research data management tasks appropriately.
+As a main editor I want to configure workflow on classification-level so that I can control what editors are allowed to use several terms which are used on specific site parts / facets in order to prevent publishing faulty content.
+As an Archivist, I want to create and edit a Resource record.
+As a data re-user, I want to Access the system in my native language so that I am not put off re-using University of Bath data by language barriers.
+As a User, I want a button that allows me to 'share' things that I discover on the Data Warehouse via a URL link, Twitter and. . . 
+As a User, I want access to 'help' resources and media (such as YouTube videos) on how to use GIS data, web services, web. . . 
+As a site editor, I can edit the content of the email automatically sent to new Certified ScrumMasters and Product Owners.
+As an Archivist, I want to see Dates and Extents displayed in both the read and edit views for (Accessions | Resources) before the list of Subjects.
+As a User I'm able to add an image to a person's profile page.
+As a researcher, I want to be able to share post-experiment write-ups with other researchers (e.g. sharing protocols and workflows for conducting specific types of experiments) so that others can more easily replicate my work.
+As an Archivist, I want to create and edit a Resource record.
+As a user I should be able enter metadata / describe an experiment protocol before a file is even created.
+As a user I want a brief summary of how turbulence is measured.
+As an editor I want to set a default editor environment language so I can easily login in the preffered language without changing languages each time I login.
+As a site visitor, I can subscribe to an RSS feed of articles. (Teasers only?).
+As an international student I would like to see financial information that is relevant to me (e.g. do not show financial aid info).
+As a student I want to synch my iCal with the Google calendar on my phone so that my calendar is always with me.
+As a site visitor, I want to see a list of the most popular items on the site. (Note: Not everything has to be considered. For example, we don’t need to know the most popular profile but it would be useful to a have a most popular box that listed the most popular articles, news items, or etc.).
+As a student I want to be able to filter my email so that I can manage it more easily.
+As an Archivist, I want to see Dates and Extents displayed in both the read and edit views for (Accessions | Resources) before the list of Subjects.
+As a user the tags that I use are part of a controlled vocabulary.
+As a student I would like to see how my awards compare to my bills.
+As a site editor, I can create the content of the What Is Scrum section.
+As a user I can filter the files I get from search results based on their (MIME) type.
+Reservations are organized  in chronological order, where the longeststanding  shall take the highest  and  the newest the lowest  priority.
+As an airline, I want to gather turbulence data from actual customers/passengers.
+As a student I don't want to have to log in; I want a responsive system that notifies me when I have a message or a payment is received.
+As a BR-Historian manager I want to register tags organized in tabs To facilitate registration of tags.
+As user BR-PlantViewer I want to name Y-axis so that explicit variable counted.
+As a User, I want to download VT GIS data layers and imagery (aerial photos) only for a particular area that I specify (eg: clip &. . .
+News Date, Stop Publishing Date.These dates refer to the date an item becomes visible on the site (perhaps next Monday), the date it stops appearing on the home page, and the date it is removed from the site (which may be never).
+As a developer, I would like to access individual data fields, such as full text.
+As a researcher, I want the ability to locate experiment files using meta data (e.g. find all files that relate to Neuron 42), regardless of where those files are located.
+As a student I would like access to deals from local food vendors so I can save money.
+As a user I can limit my search to a particular set of log books.
+As a Metadata Librarian I want to define the metadata schema for a collection.
+As a researcher, I want services to support the long term curation of data (e.g. MRI scans, experiment output, intermediate files), so that I can be sure that data will not get 'lost' with the passage of time.
+As an editor I want to search full-text on content in the editor environment so that I can find relevant content faster and therefore work more productive.
+All service documents should have a standard way of displaying an example url for users to see.
+As a company, I can join the Scrum Alliance by paying a corporate membership fee. This will include uploading items related to corporate membership (e.g., company description, a logo of size x by y).
+Staff would like to be able to ensure that all fines/fees have been paid before a case can be closed.
+As a depositor, I want to Have metadata automatically filled from other University systems (e.g. Pure) and/or remembered from previous deposits so that I don’t have to waste time re-entering the same information.
+As a user, I want to know the plane of both locations.
+As an international student I want it to be easier to make payments (e.g. not have to convert currency or pay extra wire transfer fees due to frequent bill adjustments).
+As a student I need one place to look for all my campus announcements/notifications to make sure I don't miss any.
+As a marketeer I want to set the title attribute of a link so I can improve the SE ranking of the website.
+A user defines default log entry access settings (see story #2). Whenever a new log entry is created, it starts with the default settings.
+As a system administrator I can run a script that tests to see if a Neurohub installation is functioning correctly.
+As a researcher I can attach currently non-attached files to a log book page.
+As a CSM, Practitioner, or Certified Product Owner, I can have my name listed in the registry without becoming a member of the site. (For example, I take a certification class but never register or let my membership lapse.).
+As a User I'm able to click a particular plot location from the map and thereby perform a search of people associated with that plot number.
+As a User, I want a browser-based Data Warehouse solution that does not require a browser plug-in.
+As a researcher, I want remote access to my data for off-site working (e.g. working from home, or working while on an international visit), so that I can still work effectively while away from the lab.
+As a depositor, I want to Have guarantees about data integrity so that I can use my data in the future and I can fulfil funder requirements for archival.
+As the university IT service, I want to Be able to export all data to a different system so that I am not tied into one system which may not be the most appropriate at some point in the future.
+As a student I want to feel connected to the campus.
+As a funding body, I want to Harvest metadata on outputs from research I fund via e.g. OAI-PMH so that I can analyse effectiveness of funding strategy and I can encourage cross-fertilisation of research outputs (see e.g. OpenAIRE[1]).
+As an (Application Adminstrator | Repository Manager), I want to assign Users to an Advanced Data Entry and ensure that the appropriate permissions are enforced.
+As a user, I want to look at my flight's turbulence record prior to and during a flight.
+As a site visitor who is considering attending a certification course, I want to see a trainer’s rating (either for that course or for all of his or her certification courses combined).
+As a supervisor, I would like to be able to create feedback forms within Neurohub, that my students can fill in and submit, in order to provide me with feedback about the course that they attended.
+As a provider of DRS imaging services, I need access to preferred citations. Default digital object citations could be formulated by script from catalog records, and repositories could be allowed to replace these programmatically-produced citations with customized citations, if needed, using the DRS Web Admin user interface. 
+As a student I want to be informed about campus events that are of interest to me, so that I don't miss important ones.
+As someone who wants to hire, I want to be able to extend an ad for another 30 days (repeatedly) by visiting the site and updating the posting. (Note, I can’t update it 10 times today and extend the posting 300 days today.).
+As a researcher, I want remote access to my data for off-site working (e.g. working from home, or working while on an international visit), so that I can still work effectively while away from the lab.
+As a student, I want to be able to manage/integrate my personal budget, so that I know I can pay my bills.
+As a researcher, I want the system to provide standard metadata, that all researchers in the centre (and beyond) can use so that we can better understand each others' data.
+As a site admin, I can see the results for each trainer and averages for the class (for all trainers).
+A user wants access to the system, so he finds an ATS system administrator, who enters in the user's first name, last name, middle initial, email address, username (unique), and phone number. Users may be marked as deleted.  Users may also be marked as administrators. 
+As an Administrator I'm able to manage the list of news items so that I can keep the news section up to date.
+As a marketeer I want to view the top keywords of the week easily so that I can analyze key words and when needed I can undertake action upon this information.
+As a marketeer I want to set canonical tags to individual pages so I can avoid duplicate content easily without having to set permanent redirects and thereby will improve the SE ranking of the website.
+As a collection manager I want to use external authority lists so I they can be used during metadata creation.
+As a User, I want to explore Warehouse entries by the 'custom data groupings' created by the Publisher.
+As a student I want to ensure I don't overlook important emails.
+As a bath data archive administrator, I want to Make some checks on deposited datasets before they are made public so that Consistent quality of metadata is maintained, Compliance with policies can be checked, and Details of licensing can be checked.
+ Change is computed  and  displayed.
+As an Archivist, I want to export agent records as EAC-CPF.
+As a User I'm able to add an video (YouTube Vimeo link) to a person's profile page.
+As a Visitor I'm able to search for people in the ABC database.
+If a book is returned  late, the system shall suspend the user for two days for every day the book is overdue.
+As an archivist, I want to create and edit a Collection Management subrecord (minimal implementation).
+As a main editor I want to configure workflow on media item-level for specific content types so that I can control who can modify what specific item in order to prevent editors from publishing faulty content.
+As an Archivist, I want to import Agent information from EAC-CPF records.
+The customer’s account number is entered  to retrieve  customer data and  create an order.
+As complaint clerk I want to be able to review the complaint so that I can accept it or reject it.
+As an Administrator I'm able to edit an existing event so that I can update the contents.
+As a new Certified ScrumMaster or Certified Product Owner, once my name has been loaded to the registry I am sent an email welcoming me to the Scrum Alliance and containing instructions on how to register / activate my membership.
+As a systems administrator, I want to be able to control the location of the demo database, and I want it to be backed up.
+As a User, I want access to 'help' resources and media (such as YouTube videos) on how to use GIS data, web services, web. . . 
+ACMELIS shall send an e-mail advising users of the expiry date of a  book’s loan period. The notification shall  be issued  two days before the book’s return date.
+As a site visitor, I want to read a new article on the front page about once a week.
+As a User, I want web services that work with ArcGIS software (desktop, mobile, and browser-based clients).
+As a new Certified ScrumMaster or Certified Product Owner, once my name has been loaded to the registry I am sent an email welcoming me to the Scrum Alliance and containing instructions on how to register / activate my membership.
+As a DPD I want to verify the correctness and completeness of components so that I can ensure quality standards are met.
+As a lab administrator I should be able to create page templates with bespoke metadata fields.
+Provide a box that will display the application name and version number for ATS, as well as tech support contact info.
+As a depositor, I want to Have metadata automatically filled from other University systems (e.g. Pure) and/or remembered from previous deposits so that I don’t have to waste time re-entering the same information.
+As a site member who has read a teaser on the front page, I want to read the entire article. (Note: We want any site visitor to read articles for now.).
+As a main editor I want to configure workflow on media item-level for specific content types so that I can control who can modify what specific item in order to prevent editors from publishing faulty content.
+As an Administrator, I want to create a new User account for someone else.
+Library staff shall be able to access and  cancel user suspensions.
+As a User, I want access to aerial photos (eg: VT orthos) with no downloading required (ie: as a web service).
+As a User, I want to personalize the site (eg: My Warehouse) for the topics and data that I use most often.
+The system shall reveal the status of each panel, ie : if it  is running, online, or if for any  reason it  is down or  unreachable. It  also  will  show whether the panels have correctly  received the contents that  have been sent  to them.
+As a student, I want to be able to distinguish or filter in assignments with deliverables (e.g. papers) while filtering out assignments without deliverables (e.g. readings) so that I can prioritize.
+Users shall not  be able to reserve reference works.
+As a Visitor I can register myself with the site so that I'm able to contribute.
+As a depositor, I want to Specify a retention/disposal policy for my data so that I do not accidentally breach laws or collaboration agreements.
+As a DPD I want to capture digitization statistics so that I can monitor Operator efficiency and make projections for future projects.
+As a site administrator, I can create an Other Course (?) or Event that is not charged a listing fee. This is so that the Scrum Alliance doesn’t charge itself for Scrum Gatherings that it puts on.
+As a trainer, I can update one of my existing courses or events.
+As a clerk I want to be able to forward part of the complaint to another local code enforcement agency at the same time continue with the part of the complaint pertaining to BCC.
+As a student I want to receive notification of grades when they are posted so that I can be totally on top of my progress.
+As the site editor, I can include a teaser with each article. The teaser shows up on the front page for all to read.
+As a CSM, Practitioner, or Certified Product Owner, I can have my name listed in the registry without becoming a member of the site. (For example, I take a certification class but never register or let my membership lapse.).
+As a user I want to be able to link together experimental runs to build an experiment.
+As a User, I want to post my 'data wish list' to a website for others to see, rank, and comment on.
+As user BR-PlantViewer I want to have graphic component so that it facilitates visualization of data.
+As a site visitor, I want to be able to get back to the home page quickly and easily.
+As a student, I want to be able to customize features and content, so that I can see only what is relevant or meaningful to me.
+ACMELIS shall send an e-mail advising users of the expiry date of a  book’s loan period. The notification shall  be issued  two days before the book’s return date.
+As a student I'd like a degree planner that plans against a real class schedule allowing me to finish in 4 years.
+As a user, I want to know my ETA.
+As a Papa John's user I need accurate pricing so that I can accurately plan my purchase.
+As a site visitor who is considering attending a certification course, I want to see a trainer’s rating (either for that course or for all of his or her certification courses combined).
+Frontend changes for managing enum lists.
+Bar code Ids for each  tape are entered  and  video information from inventory is displayed.
+As an Archivist, I want to create and edit Rights Management statements.
+As a User I'm able to add an video (YouTube Vimeo link) to a person's profile page.
+As a User I'm able to delete content (which I added) from a person's profile page so that I remove information that I no longer want to share.
+ability to preview an in process order with accurate information in PDF format and branded by the partner.
+As a user I want a visual way of viewing particular files uploaded over a time period.
+As an Administrator I'm able to add a new person to the ABC database.
+As a user, I want to know flight weather conditions for my journey.
+As a User I want to authenticate using LDAP.
+As a site editor, I want to be able to designate whether or not an article (or for that matter any piece of info) ever makes the home page. . . some things will not.
+As a collection manager I want to be able to create controlled vocabularies so that they can be used as authority lists during metadata creation.
+As a trainer, I can create a new course or event. This includes the following information: name, description (HTML), trainer names (multiple selection from a list), start date, end date, venue name (HTML) and address, contact name, contact phone, contact email, a link for more information, and a link to register. For a certification course the name of the class is a dropdown list; for others, it is free text. 
+As a User I'm able to open the interactive map from a person's profile page so that I can see that particular plot location.
+As a User, I want to personalize the site (eg: My Warehouse) for the topics and data that I use most often.
+As a lab administrator I can theme the Web interface graphics/colours.
+As a User, I want to search by standard data themes (eg: boundary data, transportation data, etc.) using Iso 19115 Topic. . . 
+As a user, I want potential causes of turbulence.(weather, unstable air).
+As a researcher executing a workflow, I want the details of the workflow plan as well as the execution history and (partial) results recorded in Neurohub.
+User sets an action item's priority.
+As a site admin, I want jobs to stop publishing on the site 30 days after being posted. (Note: 30 days doesn’t need to be configurable at this point. Hardcoding is fine for now.).
+As the site editor, I can include a teaser with each article. The teaser shows up on the front page for all to read.
+Any  past-due amount must be paid  before new  tapes can  be rented.
+As a developer I want to pass on variables to flash files directly.
+As a student I want to receive notifications on my mobile device (iPhone), such as grade posting notices.
+As a fourth-year student, I want to be able to have presented to me only features and content that are relevant to my status, so that I can focus on what is most relevant (e.g. finding a job).
+Library users shall be able to borrow books.
+Staff would like to have due dates tracked so that response times can be tracked.
+As a clerk I want to be able to create a Request for Information letter reflect this status in the system and set a due date so that we can track the process correctly.
+Users shall be able to consult their loans, as well  as the return date.
+As a trainer, I am notified about the results of surveys about my classes. (Questions: After each survey? After a set period of time? Does the trainer get an email or just know to go to the site?).
+As a student, I want to have links to my disparate class websites (including Piazza and edX) collected in one place.
+As Collection Manager or Sponsor I want to describe the collection.
+As a clerk I want to be able to take a paper complaint so I can create an electronic record.
+As a Digital Production Developer (DPD) I want to group components that require digitization so that I can create digitizable units.
+As a researcher, I want to collect data as a library of data, which can then be used by one or multiple experiments that are defined at a later stage (perhaps years later).
+As a trainer, when I create an Other Course or Event, I am charged a listing fee for that activity. (Note: We’ll need this to tie into credit card processing.).
+As a depositor, I want to Link to data stored in external repositories so that I can store my data in an appropriate repository but still register it with the University and I don’t have to deposit my data in multiple places.
+As a main editor I want to configure workflow on classification-level so that I can control what editors are allowed to use several terms which are used on specific site parts / facets in order to prevent publishing faulty content.
+As a student I want to make sure I don't miss any deadlines.
+As a site visitor, I have an advanced search option that lets me fill in a form of search criteria (country, state, trainer name, date range, word in description, etc.).
+As a site member, I can search for profiles based on a few fields (class attended, location, name).
+As a User, I want access to 'help' resources and media (such as YouTube videos) on how to use GIS data, web services, web. . . 
+As a Metadata librarian I want to define Authorities to be used for specific fields in a collection MD Schema.
+As a user I would like my Twitter Tweets to appear in Neurohub, so that other researchers in the centre can see what I am up to.
+As a student, I want my events and tasks (assignments) automatically provided and prominently displayed.
+The system shall allow the recording and  management of users who   can access the application  via a login and  different  levels of privileges.   Access will  be  through e-mail address and password.
+As a End User I want to be able to see the physical context of an Item in a digital collection (i. e. See inside this folder; EAD).
+As an Administrator I'm able to ban a particular User so that he/she has no longer access to the site with the provided email address.
+As an Administrator I'm able to add a new news item so that its shown in the overview of news items.
+As a clerk I want to be able to submit a complaint from the AIR (Annual Inspection Report) so that the respondent can fix the issues that the inspectors found.
+As an system administrator I want to monitor the performance of CMS SiteManager so I can analyze indicators which influence the health of CMS SiteManager and undertake action upon this analysis in order to make CMS SiteManager healthy again.
+As a Visitor I'm able to see an overview of available categories so that I can select a particular category.
+As a collection manager or cataloger I want to be able to see who last edited a record and when.
+As a researcher, I want electronic support for keeping track of which data sets (and revisions) were used/output/modified as part of a particular experiment.
+As a student I want one source to go to to see all my assignments.
+Staff would like to be able to generate a Case report.
+If the loan period expires on a non-working day, the loan shall be considered  to be due on the next working day.
+As a student I want to receive notifications from BearFacts (in CalCentral).
+As a Practitioner or Trainer, when I provide content to the site I want a small graphic associated with the content indicating I’m a Practitioner or Trainer. (For example, Amazon’s “Top 500 Reviewers” approach.).
+As a member with short-term memory problems, I can have the system email me a new password or a password reminder, possibly my username (unless we use email for that), and so on.
+Managerial log entry. Manager opens user's log and interjects a comment. Manager comments are highlighted to draw distinction from user logs. Security: User, manager.
+News Date, Stop Publishing Date.These dates refer to the date an item becomes visible on the site (perhaps next Monday), the date it stops appearing on the home page, and the date it is removed from the site (which may be never).
+As an editor I want to maintain media items in multiple languages easily and in an intuitive way so that I can work productively.
+As a researcher, I want remote access to my data for off-site working (e.g. working from home, or working while on an international visit), so that I can still work effectively while away from the lab.
+As a trainer, I can create a new course or event. This includes the following information: name, description (HTML), trainer names (multiple selection from a list), start date, end date, venue name (HTML) and address, contact name, contact phone, contact email, a link for more information, and a link to register. For a certification course the name of the class is a dropdown list; for others, it is free text. 
+As a user I want to be able to manage the references / papers I have investigated.
+As a User, I want to download aerial photos (eg: VT orthos) so I can use them on my computer.
+Backend changes for managing enum lists.
+Restrict access to the application. Only allow people who know a user's username and password to access ATS.
+As a depositor, I want to Track citations of my data so that I can demonstrate the impact of my work.
+As a researcher, I want to be able to attach standard meta data for behavioural observations (and video), so that my data can later be searched for and understood.
+As a researcher, I want remote access to my data for off-site working (e.g. working from home, or working while on an international visit), so that I can still work effectively while away from the lab.
+As a user I need accurate pricing so that I can accurately plan my purchase.
+As an Archivist, I want to import EAD files that were exported by Archon.
+As a Metadata Librarian I want to define validation rules for specific fields in a collection.
+Faculty shall be able to use ACMELIS to borrow books without having to visit the library in person. To do this , and respecting the constraints set out in Req(16), Req(17), Req(18) and Req(19), they  shall  enter the loan data in ACMELIS.
+As an archivist, I want to create and edit a Collection Management subrecord (minimal implementation).
+As a student group we would like to have a shared space to post flyers, to promote events so that students could find clubs they are interested in.
+As a user I can upload large files of over 1GB in size.
+As a student, I want to be able to easily find my class locations, and my way around campus so that I can get where I need to be on time.
+As a user I want to measure the current amount of turbulence.
+As a Visitor I'm able to close the selected profile so that I can return to the search results or homepage.
+The system shall allow the recording and  management of users who   can access the application  via a login and  different  levels of privileges.   Access will  be  through e-mail address and password.
+As a user, I want to find flights by airline (by current/upcoming flights).
+As a Basic Data Entry user I want to create and update basic archival description information.
+The system shall allow the upload of new content.   The contents may  be  images, videos and  Flash animations .   Uploaded  new  content must  be associated  with a title, description, some  tags, duration, date of activation and expiration date.
+Users shall be notified  by e-mail when a  reserved book becomes available. Only the user with the oldest reservation shall  be notified , save as stated in Req(12).
+As a User, I want a robust and easy-to-use search engine to help me find the geospatial data, web services, and. . .
+As a user, I want to be able to know for sure when the plane is turning and why.
+As a provider of DRS imaging services, I need access to preferred citations. Default digital object citations could be formulated by script from catalog records, and repositories could be allowed to replace these programmatically-produced citations with customized citations, if needed, using the DRS Web Admin user interface. 
+As a site member, I can subscribe to an RSS feed of news (and events? or are they separate?).
+As a student I need a back-up plan for viewing my calendar & tasks if electronics fail.
+As a researcher, I want to expose the text files in bulk for data mining so I can search for subsets of text files based on metadata from other systems.
+As a systems administrator I can install Neurohub dependencies into an Ubuntu 10. 04 LTS machine using the normal Ubuntu package management tools.
+As a user I want to be able to create a protocol 'run' and assign metadata to any 'run' stage.
+Migrate existing data to new release.
+As an Administrator I'm able to manage the list of events so that I can keep the events section up to date.
+As a DPU I want to add one or more Components to an Item.
+As a user I can attach multiple files at once to a log book page.
+Add additional properties for repositories.
+ When all  tape Ids are entered , the system computes the total bill.
+As a site visitor, I can email news items to the editor. (Note: this could just be an email link to the editor.).
+As a student I want more help knowing who to turn to when I have a problem, and be encouraged to do so.
+As a DPU I want to create Technical Metadata with for Component.
+As a user I want to be able to download multiple files from the search results in one go.
+Create an admin guide that describes administrative tasks to deploy system, add users, and configure third party tools.
+A manager or administrator views the changes that have been made to sensitive (audited) fields in the application. Changes are recorded from the creation of a record up to the present.
+As a user I want to see how many Items have been digitized.
+As a Trainer, I want my profile page to include additional details about me (i.e., some of the answers to my Trainer application).
+As a student I want to connect with people who have similar interests, possibly by sharing my interests.
+As a system integrator I want function to convert tag to id so that I make calls to other functions that depend on an id.
+As an Archivist, I want to assign a Level (of description) to a Resource or Resource Component, and optionally specify another value if the Level is not in a predefined list.
+As a student I want email addresses, not contact forms, so I can contact offices even when I'm offline.
+When a user creates a project, he selects a project type or template that creates a default set of action items for the project.
+As a depositor, I want to Deposit and maintain datasets through Virtual Research Environments and other workflow tools so that I can continue to work with tools with which I’m familiar.
+As someone who wants to hire, I want to be able to extend an ad for another 30 days (repeatedly) by visiting the site and updating the posting. (Note, I can’t update it 10 times today and extend the posting 300 days today.).
+As a User I'm able to add content to the selected profile.
+As a user, I want a mechanism for electronically sharing papers and notes with other researchers, so that we can collaborate effectively.
+As an editor I need time zone support for setting publication and expiration dates for my content so I know what time a content item goes 'live' in my time zone.
+As a site editor, I want to be able to designate whether or not an article (or for that matter any piece of info) ever makes the home page. . . some things will not.
+As a site visitor, I can see a list of all upcoming “Other Courses” (non-certification courses). I can page through them if necessary.
+As an Archivist, I want to assign Location information to a Container.
+As a site editor, I want to be able to indicate whether an article is publicly available or for members only.
+As a student I want my tasks to disappear (from the A&T graphic) after I've completed them.
+As a site visitor, when I’m viewing a course I can click on the trainer’s name and be taken to the trainer’s profile.
+As a student I want to have up to date information when planning my schedule. (PAIN POINT: schedule. berkeley. edu isn't always correct.).
+As a site member, I can subscribe to an RSS feed of news (and events? or are they separate?).
+As a site visitor, I can read current news on the home page.
+As a trainer, admin, or editor, I can turn a course into an event or an event into a course (in case it was entered in the wrong category). (Note: making something a Certification Course will probably require selecting the name of the course from the pre-approved list. ). 
+As a collections manager I want to be able to repeat repeatable DC Fields so that I can enter all of the relevant metadata.
+As a site editor, I can post information in a trainers-only section.
+As an archivist, I want to upload an EAD for import from within the frontend application.
+As an editor I want to set a content language so I see SiteManager in my personal language without having to change content language each time after login.
+Backend changes for bulk updating one enum value to another.
+As a site editor, I can assign priority numbers to news items. Items are displayed on the front page based on priority.
+As a User, I want access to 'help' resources and media (such as YouTube videos) on how to use GIS data, web services, web. . . 
+User assigns action item to a specific individual other than himself.
+As a User, I want metadata that is easy to read with a quick way to get to attribute descriptions and attribute codes.
+As a user, I want to preview sounds.
+As an system administrator I want to monitor the performance of CMS SiteManager so I can analyze indicators which influence the health of CMS SiteManager and undertake action upon this analysis in order to make CMS SiteManager healthy again.
+As a researcher executing a workflow, I want the details of the workflow plan as well as the execution history and (partial) results recorded in Neurohub.
+As a researcher, I want any data that I have written to the VRE to be protected from modification or deletion (by myself or others) so that original data can always be traced back to an experiment and a point in time (although new versions of the data file can be uploaded).
+Sales Rep account creation with venture 1 num.
+As a researcher, I want the ability to locate experiment files using meta data (e.g. find all files that relate to Neuron 42), regardless of where those files are located.
+As a trainer, I can create a new course or event. This includes the following information: name, description (HTML), trainer names (multiple selection from a list), start date, end date, venue name (HTML) and address, contact name, contact phone, contact email, a link for more information, and a link to register. For a certification course the name of the class is a dropdown list; for others, it is free text. 
+As a site member, I want to describe myself on my own page in a semi-structured way. That is, I can fill in predefined fields, but also have room for a free-text field or two. (It would be nice to let this free text be HTML or similar.).
+As a site admin, I can view all classes in a pending state.
+As a depositor, I want to Manage multiple versions of the same dataset so that Changes to the dataset are transparent and do not compromise research integrity.
+As an editor I want to crop images so I can edit images easily without using photo editing tools and therefore I can work more productive.
+As a researcher I can create a log book page for an experiment and attach a file to this page.
+As a site member, I can subscribe to an RSS feed of news (and events? or are they separate?).
+Users shall be notified  by e-mail when a  reserved book becomes available. Only the user with the oldest reservation shall  be notified , save as stated in Req(12).
+Users shall be able to extend the validity period of their  reservations.   If the validity period of a reservation is extended , this   reservation becomes the newest  of all  the reservations.
+As a researcher, I want to be able to bulk upload directories and files with minimal effort.
+A user shall be able to reserve any  number of books. Similarly , multiple users shall  be able to reserve any  particular book.
+As Admin I'm able to import Event Records.
+As a researcher, I want electronic support for keeping track of which data sets (and revisions) were used/output/modified as part of a particular experiment.
+As a collections manager I want required DC fields to be enforced so that all records have values for all required DC fields.
+As a User, I want data and imagery downloads to include embedded metadata.
+Library users shall have to return the books before the loan period expires.
+Need a method for handling the case where the preview archive is updated needs to be considered.
+As a User, I want to find and download town-level GIS data.
+As someone who wants to hire, I can post a “help wanted ad”.
+As a cataloger or collection manager I want to be able to search for records based on all Duke Core fields.
+As a site editor, I can set start publishing dates (when teaser appears on front page), old article date (when it disappears from home page), and stop publishing dates (when it's removed from site, if ever) for articles.
+As a student, I want to be able to add a tasks on the dashboard so that I can be as efficient as possible both in task-entering and managing my time.
+As a site visitor, I can see a list of all upcoming “Other Courses” (non-certification courses). I can page through them if necessary.
+As a company, I can join the Scrum Alliance by paying a corporate membership fee. This will include uploading items related to corporate membership (e.g., company description, a logo of size x by y).
+As a trainer, when I create an Other Course or Event, I am charged a listing fee for that activity. (Note: We’ll need this to tie into credit card processing.).
+As a user, I want to find flights by airline (by current/upcoming flights).
+As a site visitor, I want to be able to read some of your articles.
+As a site visitor, I can view lists on the site of all Certified ScrumMasters, Practitioners, Trainers, and Certified Product Owners. (The CSM list has over 5,000 names so a letter-based pagination approach is needed.).
+As a User, I want access to VT GIS data layers with no downloading required (ie: as a web service).
+As a user I want to be alerted to potential  turbulence 10 min  before it  occurs (can be crowdsourced based on previous data).
+As a User, I want to download VT GIS data layers in KML format.
+As a system administrator I want to define presentation variants in my presentation configuration xml file so I can easily and efficiently deploy my presentation throughout DTAP.
+Provide a box that will display the application name and version number for ATS, as well as tech support contact info.
+As a Practitioner or Trainer, when I provide content to the site I want a small graphic associated with the content indicating I’m a Practitioner or Trainer. (For example, Amazon’s “Top 500 Reviewers” approach.).
+As a student I'd like to be able to bookmark class sites that aren't automatically included (e.g. Piazza) in CalCentral.
+The system shall display a list sorted  by date (ascending or  descending) of the last ten uploaded  contents. It  will  also  show the rest of the contents if they  exceed ten.
+As an Administrator I'm able to search through the list of Users so that I can more easily find a particular User.
+As a user I want to capture the same metadata for each file created in an experimental run.
+As a User, I want to post comments about a particular dataset, web service, or application and have those comments show up. . . 
+As a site visitor, I want there to be a section of the website that teaches me the basics of what Scrum is.
+As a user, I want to know potential causes of turbulence, and likely ones.
+As an editor I need time zone support for setting publication and expiration dates for my content so I know what time a content item goes 'live' in my time zone.
+As a user, I want to see an explanation of why the plane is in the direction it's going in.
+As the university IT service, I want to Store archived data on existing storage systems so that University data storage is consistent and maintainable and the Future availability of data can be guaranteed.
+System interface should also include a parameter for passing the date/time allowing the user to specify which aeronautical data set to use.
+As a researcher, I need to be able to search for images of cells (and brains) using standard meta data.
+As a researcher, I want the system to provide standard metadata, that all researchers in the centre (and beyond) can use so that we can better understand each others' data.
+As a fourth-year student, I want to be able to have presented to me only features and content that are relevant to my status, so that I can focus on what is most relevant (e.g. finding a job).
+As a User, I want data and imagery downloads to include embedded metadata.
+As a site editor, I can maintain an FAQ section.
+As a User, I want 'authoritative' datasets to be discoverable and clearly identified.
+ If past-due amounts are owed  they  can be paid  at this  time; or  the  clerk can select an  option which  updates the rental with the return date and  calculates past-due fees.
+As a user, I want to know about sounds and bumps related to landing.
+As an Administrator I'm able to delete an existing event so that its removed from the overview.
+As a marketeer I want to create friendly URLs for my nested product pages so I can improve the SE ranking of the product section of my website.
+Integrate the use of segment frequency into the selection process for the RO.
+The rental transaction is displayed  and  the tape is marked  with the date of return.
+As a supervisor, I would like to be able to create feedback forms within Neurohub, that my students can fill in and submit, in order to provide me with feedback about the course that they attended.
+As a site member, I can do a full-text search of the FAQs. (Maybe we want this for any site visitor?).
+As a Metadata Librarian I want validation rules enforced when MD is submitted.
+As an editor I want to assign page sections to pages using the current page section structure so I can easily and efficiently manage page sections assigned to pages.
+As a user I want to be able to save a record only when the record has an identifier so that we don't end up with a bunch of empty records in the collection.
+As an Archivist, I don't want to inadvertently overwrite someone else's changes to a record that I'm editing.
+As a User, I want web services providing access to aerial photos that render 'Google' fast.
+As a CSM or CPO who has been approved for Practitioner status (by a site admin reading my submission), I am charged a fee.
+As a student I want to connect with students who have the same major or same interests as me.
+As a researcher I can create a log book page for an experiment and attach a directory that contains multiple files.
+As a student I'd like to see my Cal1Card balance.
+As a Visitor I'm able to see a list of events so that I can stay up to date on ABC-related events.
+As a site visitor, I can see a list of all upcoming “Other Courses” (non-certification courses). I can page through them if necessary.
+As a student, I want to be able to easily find campus resources even if they aren't in a clear category (e.g. My Campus potentially overlapping catgories), so that during discovery I don't miss anything.
+As a researcher I can create a log book page for an experiment and attach a file to this page.
+As a systems administrator I can install Neurohub dependencies into an Ubuntu 10. 04 LTS machine using the normal Ubuntu package management tools.
+Faculty shall be able to return books as specified in Req(31) or  shall  be able to send the books by internal mail to the library, upon receipt of which  the library staff shall  enter the book as returned.
+As a researcher, I want to be able to locate and access data that colleagues want to share.
+As someone who has posted an ad that is about to expire, seven days before it expires I want to be emailed a reminder so that I can go extend the ad. (Note: This means the ad could have an expiration date 37 days into the future, which is fine.).
+As a user processing data, I want the ability to move multiple files around and rearrange them using the Neurohub file browser.
+As an Archivist I want to specify the source for a Name Form of an Agent, add new sources, and edit existing sources.
+As a site visitor, I have an advanced search option that lets me fill in a form of search criteria (country, state, trainer name, date range, word in description, etc.).
+As an Archivist I want to import EAD data.
+As a trainer who has finished teaching a Certification class, I can load an Excel file (first name, last name, email) into the site. I am prompted for the trainer names (I may not have trained alone), certification date, and type of certification (i.e., CSM or CPO). The names are loaded into a pending state and not yet added to the registry. (Note: We could have this charge $50 per person right then. ). 
+As a trainer, I want my profile to list my upcoming classes and include a link to a detailed page about each.
+As a User, I want to authenticate locally.
+As a User, I want access to data standards and data templates for download.
+As a User, I want all technical terms to be linked to explanations so I don't have to be a GIS expert.
+As a respondent I want to be able to respond to a complaint submitted against me so I don't get fined.
+As an Administrator I'm able to add a new album.
+As an Archivist, I want to export a description as EAD.
+As an external collaborator, I want to Have guarantees that my IP rights will not be breached so that The risk of collaborating with Bath is acceptable to me.
+As a student I want to be able to easily see my upcoming events and tasks (e.g. with large calendar).
+As an Administrator I'm able to completely remove a User from the site so that the account is no longer available.
+As a site visitor, I can email news items to the editor. (Note: this could just be an email link to the editor.).
+As a public services staff in the Preservation Conservation and Digital Imaging services group, a researcher wants to order an image and Houghton PS staff needs to tell the researcher what the size or resolution of the image is without looking it up via DRS Webadmin.
+As an Archivist, I want to assign a Level (of description) to a Resource or Resource Component, and optionally specify another value if the Level is not in a predefined list.
+As a student I'd like a map and walking directions for the campus.
